@@ -1,358 +1,376 @@
 <!-- ════════════════════════════════════════════════════════════════════ -->
-<!--              SAKSHAM · ANSHXGRIND · GITHUB PROFILE README          -->
-<!--        Kurukshetra · Saffron · Gold · Mahabharata · Dharma         -->
+<!--            SAKSHAM · ANSHXGRIND · GITHUB PROFILE README           -->
+<!--         Kurukshetra · Saffron · Maroon · Gold · Dharma            -->
 <!-- ════════════════════════════════════════════════════════════════════ -->
 
 <div align="center">
 
-<!-- ──────────────── MAIN BANNER ──────────────── -->
-<img src="https://capsule-render.vercel.app/api?type=venom&color=FF6B00,FF9933,FFD700,8B0000&height=220&section=header&text=SAKSHAM&fontSize=90&fontColor=fff8e7&fontAlignY=55&animation=fadeIn&desc=AnshXGrind%20%C2%B7%20Kurukshetra%20%C2%B7%20%E0%A4%95%E0%A4%B0%E0%A5%8D%E0%A4%AE%E0%A4%AF%E0%A5%8B%E0%A4%97%E0%A5%80&descSize=18&descAlignY=78&descColor=FFD700" width="100%"/>
+<img src="https://capsule-render.vercel.app/api?type=venom&color=8B0000,FF6B00,FFD700,FF9933&height=230&section=header&text=SAKSHAM&fontSize=96&fontColor=fff8e7&fontAlignY=52&animation=fadeIn&desc=AnshXGrind%20%C2%B7%20%E0%A4%95%E0%A5%81%E0%A4%B0%E0%A5%81%E0%A4%95%E0%A5%8D%E0%A4%B7%E0%A5%87%E0%A4%A4%E0%A5%8D%E0%A4%B0%20%C2%B7%20%E0%A4%95%E0%A4%B0%E0%A5%8D%E0%A4%AE%E0%A4%AF%E0%A5%8B%E0%A4%97%E0%A5%80&descSize=20&descAlignY=76&descColor=FFD700" width="100%"/>
 
 </div>
 
-<!-- ──────────────── OM DIVIDER ──────────────── -->
+<!-- OM DIVIDER -->
 <div align="center">
-<svg viewBox="0 0 900 50" xmlns="http://www.w3.org/2000/svg" width="100%">
+<svg viewBox="0 0 900 44" xmlns="http://www.w3.org/2000/svg" width="100%">
   <defs>
-    <linearGradient id="safDiv" x1="0%" y1="0%" x2="100%" y2="0%">
-      <stop offset="0%" style="stop-color:#0d0500;stop-opacity:1"/>
-      <stop offset="30%" style="stop-color:#FF6B00;stop-opacity:1"/>
+    <linearGradient id="d1" x1="0%" y1="0%" x2="100%" y2="0%">
+      <stop offset="0%" style="stop-color:#0a0200;stop-opacity:1"/>
+      <stop offset="20%" style="stop-color:#8B0000;stop-opacity:1"/>
       <stop offset="50%" style="stop-color:#FFD700;stop-opacity:1"/>
-      <stop offset="70%" style="stop-color:#FF6B00;stop-opacity:1"/>
-      <stop offset="100%" style="stop-color:#0d0500;stop-opacity:1"/>
+      <stop offset="80%" style="stop-color:#8B0000;stop-opacity:1"/>
+      <stop offset="100%" style="stop-color:#0a0200;stop-opacity:1"/>
     </linearGradient>
   </defs>
-  <rect x="0" y="24" width="900" height="1.5" fill="url(#safDiv)" opacity="0.6"/>
-  <text x="450" y="33" text-anchor="middle" font-family="serif" font-size="22" fill="#FFD700" opacity="0.95">ॐ</text>
-  <circle cx="290" cy="25" r="2.5" fill="#FF9933" opacity="0.7"/>
-  <circle cx="314" cy="25" r="1.5" fill="#FFD700" opacity="0.5"/>
-  <circle cx="610" cy="25" r="2.5" fill="#FF9933" opacity="0.7"/>
-  <circle cx="586" cy="25" r="1.5" fill="#FFD700" opacity="0.5"/>
+  <rect x="0" y="21" width="900" height="1.5" fill="url(#d1)" opacity="0.65"/>
+  <text x="450" y="30" text-anchor="middle" font-family="serif" font-size="24" fill="#FFD700" opacity="0.97">ॐ</text>
+  <circle cx="280" cy="22" r="2.5" fill="#FF6B00" opacity="0.65"/>
+  <circle cx="306" cy="22" r="1.5" fill="#FFD700" opacity="0.45"/>
+  <circle cx="620" cy="22" r="2.5" fill="#FF6B00" opacity="0.65"/>
+  <circle cx="594" cy="22" r="1.5" fill="#FFD700" opacity="0.45"/>
 </svg>
 </div>
 
-<!-- ──────────────── BADGES ──────────────── -->
+<!-- BADGES -->
 <div align="center">
 
-[![Portfolio](https://img.shields.io/badge/Portfolio-saksham--main.vercel.app-FF6B00?style=for-the-badge&logo=vercel&logoColor=white)](http://saksham-main.vercel.app)&nbsp;
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-sakshamgrg-FF9933?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/sakshamgrg)&nbsp;
-[![GitHub](https://img.shields.io/badge/GitHub-AnshXGrind-8B0000?style=for-the-badge&logo=github&logoColor=white)](https://github.com/AnshXGrind)
+[![Portfolio](https://img.shields.io/badge/Portfolio-saksham--main.vercel.app-8B0000?style=for-the-badge&logo=vercel&logoColor=FFD700)](http://saksham-main.vercel.app)&nbsp;
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-sakshamgrg-FF6B00?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/sakshamgrg)&nbsp;
+[![GitHub](https://img.shields.io/badge/GitHub-AnshXGrind-FFD700?style=for-the-badge&logo=github&logoColor=1a0800)](https://github.com/AnshXGrind)
 
 <br/>
 
-![](https://img.shields.io/badge/Kurukshetra%2C%20India-FF6B00?style=flat-square&logoColor=white)&nbsp;
-![](https://img.shields.io/badge/AI%2FML%20Engineer-FF9933?style=flat-square&logoColor=white)&nbsp;
-![](https://img.shields.io/badge/Startup%20Founder-FFD700?style=flat-square&logoColor=1a0800)
+![](https://img.shields.io/badge/%E0%A4%95%E0%A5%81%E0%A4%B0%E0%A5%81%E0%A4%95%E0%A5%8D%E0%A4%B7%E0%A5%87%E0%A4%A4%E0%A5%8D%E0%A4%B0%2C%20India-8B0000?style=flat-square&logoColor=FFD700)&nbsp;
+![](https://img.shields.io/badge/AI%2FML%20Engineer-FF6B00?style=flat-square&logoColor=white)&nbsp;
+![](https://img.shields.io/badge/Startup%20Founder-FFD700?style=flat-square&logoColor=1a0800)&nbsp;
+![](https://img.shields.io/badge/DSA%20Warrior-8B0000?style=flat-square&logoColor=FFD700)
 
 </div>
 
----
+<br/>
 
-<!-- ══════════════════════════════════════════════════════════════════ -->
-<!--                  MAHABHARATA PAINTINGS — PUBLIC DOMAIN            -->
-<!-- ══════════════════════════════════════════════════════════════════ -->
+<!-- ══════════════════════════════════════════════════════════ -->
+<!--              MAHABHARATA PAINTINGS — PUBLIC DOMAIN        -->
+<!-- ══════════════════════════════════════════════════════════ -->
 
 <div align="center">
 
-<table border="0" cellspacing="0" cellpadding="6">
+<table border="0" cellspacing="0" cellpadding="8">
 <tr>
-<td align="center" width="33%">
-<img src="https://upload.wikimedia.org/wikipedia/commons/thumb/1/1a/Arjuna_and_karna_in_war%2C_krishna_as_arjuna_charioter.jpg/480px-Arjuna_and_karna_in_war%2C_krishna_as_arjuna_charioter.jpg" width="100%" style="border: 2px solid #FF6B00; border-radius: 6px;"/>
-<br/><sub><b style="color:#FFD700;">⚔️ Arjuna & Karna · Kurukshetra War</b></sub>
-<br/><sub><i>Ancient Painting · Public Domain</i></sub>
+<td align="center" width="50%">
+
+<img src="https://upload.wikimedia.org/wikipedia/commons/thumb/7/7e/Arjuna_and_His_Charioteer_Krishna_Confront_Karna.jpg/600px-Arjuna_and_His_Charioteer_Krishna_Confront_Karna.jpg" width="100%"/>
+<br/>
+<sub>🏹 <b>Krishna &amp; Arjuna face Karna · Kurukshetra War</b><br/>Himachal Pradesh/Kashmir · c.18th Century · Public Domain</sub>
+
 </td>
-<td align="center" width="33%">
-<img src="https://upload.wikimedia.org/wikipedia/commons/thumb/7/7e/Arjuna_and_His_Charioteer_Krishna_Confront_Karna.jpg/480px-Arjuna_and_His_Charioteer_Krishna_Confront_Karna.jpg" width="100%" style="border: 2px solid #FF9933; border-radius: 6px;"/>
-<br/><sub><b style="color:#FFD700;">🏹 Krishna & Arjuna vs Karna</b></sub>
-<br/><sub><i>Himachal Pradesh · Public Domain</i></sub>
+<td align="center" width="50%">
+
+<img src="https://upload.wikimedia.org/wikipedia/commons/thumb/1/1a/Arjuna_and_karna_in_war%2C_krishna_as_arjuna_charioter.jpg/600px-Arjuna_and_karna_in_war%2C_krishna_as_arjuna_charioter.jpg" width="100%"/>
+<br/>
+<sub>⚔️ <b>Arjuna &amp; Karna · Great Battle</b><br/>Ancient Indian Painting · Public Domain</sub>
+
 </td>
-<td align="center" width="33%">
-<img src="https://upload.wikimedia.org/wikipedia/commons/thumb/8/89/Krishna_and_Arjuna_in_Bali.JPG/480px-Krishna_and_Arjuna_in_Bali.JPG" width="100%" style="border: 2px solid #8B0000; border-radius: 6px;"/>
-<br/><sub><b style="color:#FFD700;">🔱 Krishna & Arjuna · Sculpture</b></sub>
-<br/><sub><i>Bali Temple · Public Domain</i></sub>
+</tr>
+<tr>
+<td align="center" width="50%">
+
+<img src="https://upload.wikimedia.org/wikipedia/commons/thumb/c/c4/Krishna_advising_Pandavas.jpg/480px-Krishna_advising_Pandavas.jpg" width="100%"/>
+<br/>
+<sub>🔱 <b>Krishna Advising Pandavas</b><br/>Indian Miniature Painting · Public Domain</sub>
+
+</td>
+<td align="center" width="50%">
+
+<img src="https://upload.wikimedia.org/wikipedia/commons/thumb/5/52/Arjuna_chooses_Krishna.jpg/480px-Arjuna_chooses_Krishna.jpg" width="100%"/>
+<br/>
+<sub>🌟 <b>Arjuna Chooses Krishna · Before Kurukshetra</b><br/>Classical Painting · Public Domain</sub>
+
 </td>
 </tr>
 </table>
 
 </div>
 
+<!-- SAFFRON RULE -->
 <div align="center">
-<svg viewBox="0 0 900 8" xmlns="http://www.w3.org/2000/svg" width="100%">
+<svg viewBox="0 0 900 10" xmlns="http://www.w3.org/2000/svg" width="100%">
   <defs>
-    <linearGradient id="hr1" x1="0%" y1="0%" x2="100%" y2="0%">
-      <stop offset="0%" style="stop-color:#0d0500"/>
-      <stop offset="25%" style="stop-color:#8B0000"/>
+    <linearGradient id="hr0" x1="0%" y1="0%" x2="100%" y2="0%">
+      <stop offset="0%" style="stop-color:#0a0200"/>
+      <stop offset="20%" style="stop-color:#8B0000"/>
       <stop offset="50%" style="stop-color:#FFD700"/>
-      <stop offset="75%" style="stop-color:#8B0000"/>
-      <stop offset="100%" style="stop-color:#0d0500"/>
+      <stop offset="80%" style="stop-color:#8B0000"/>
+      <stop offset="100%" style="stop-color:#0a0200"/>
     </linearGradient>
   </defs>
-  <rect width="900" height="2" y="3" fill="url(#hr1)"/>
+  <rect width="900" height="2" y="4" fill="url(#hr0)"/>
 </svg>
 </div>
 
-<!-- ══════════════════════════════════════════════════════════════════ -->
-<!--                   KURUKSHETRA BATTLEFIELD SVG                     -->
-<!-- ══════════════════════════════════════════════════════════════════ -->
+<!-- ══════════════════════════════════════════════════════════ -->
+<!--               KURUKSHETRA BATTLEFIELD SVG                 -->
+<!-- ══════════════════════════════════════════════════════════ -->
 
 <div align="center">
-
-<svg viewBox="0 0 900 330" xmlns="http://www.w3.org/2000/svg" width="100%">
+<svg viewBox="0 0 900 340" xmlns="http://www.w3.org/2000/svg" width="100%">
   <defs>
-    <linearGradient id="bSky" x1="0%" y1="0%" x2="0%" y2="100%">
-      <stop offset="0%" style="stop-color:#050208"/>
-      <stop offset="40%" style="stop-color:#160820"/>
-      <stop offset="78%" style="stop-color:#3d1500"/>
-      <stop offset="100%" style="stop-color:#5c2000"/>
+    <linearGradient id="sky" x1="0%" y1="0%" x2="0%" y2="100%">
+      <stop offset="0%" style="stop-color:#020008"/>
+      <stop offset="38%" style="stop-color:#120618"/>
+      <stop offset="76%" style="stop-color:#3a1200"/>
+      <stop offset="100%" style="stop-color:#581e00"/>
     </linearGradient>
-    <linearGradient id="bGnd" x1="0%" y1="0%" x2="0%" y2="100%">
-      <stop offset="0%" style="stop-color:#3d1500"/>
-      <stop offset="100%" style="stop-color:#1a0800"/>
+    <linearGradient id="gnd" x1="0%" y1="0%" x2="0%" y2="100%">
+      <stop offset="0%" style="stop-color:#3a1200"/>
+      <stop offset="100%" style="stop-color:#180700"/>
     </linearGradient>
-    <radialGradient id="divAura" cx="50%" cy="60%" r="35%">
-      <stop offset="0%" style="stop-color:#FFD700;stop-opacity:0.25"/>
-      <stop offset="60%" style="stop-color:#FF6B00;stop-opacity:0.07"/>
-      <stop offset="100%" style="stop-color:#050208;stop-opacity:0"/>
+    <radialGradient id="aura" cx="50%" cy="58%" r="34%">
+      <stop offset="0%" style="stop-color:#FFD700;stop-opacity:0.28"/>
+      <stop offset="55%" style="stop-color:#FF6B00;stop-opacity:0.07"/>
+      <stop offset="100%" style="stop-color:#020008;stop-opacity:0"/>
     </radialGradient>
-    <radialGradient id="wGlow" cx="50%" cy="50%" r="50%">
-      <stop offset="0%" style="stop-color:#FFD700;stop-opacity:0.55"/>
+    <radialGradient id="wg" cx="50%" cy="50%" r="50%">
+      <stop offset="0%" style="stop-color:#FFD700;stop-opacity:0.6"/>
       <stop offset="100%" style="stop-color:#FF6B00;stop-opacity:0"/>
     </radialGradient>
-    <radialGradient id="ckGlow" cx="50%" cy="50%" r="50%">
-      <stop offset="0%" style="stop-color:#FFD700;stop-opacity:0.8"/>
-      <stop offset="100%" style="stop-color:#FF6B00;stop-opacity:0"/>
+    <radialGradient id="ckg" cx="50%" cy="50%" r="50%">
+      <stop offset="0%" style="stop-color:#FFD700;stop-opacity:0.85"/>
+      <stop offset="100%" style="stop-color:#FF9933;stop-opacity:0"/>
     </radialGradient>
-    <filter id="fg"><feGaussianBlur stdDeviation="4" result="b"/><feMerge><feMergeNode in="b"/><feMergeNode in="SourceGraphic"/></feMerge></filter>
-    <filter id="sg"><feGaussianBlur stdDeviation="8" result="b"/><feMerge><feMergeNode in="b"/><feMergeNode in="SourceGraphic"/></feMerge></filter>
+    <filter id="glow"><feGaussianBlur stdDeviation="4" result="b"/><feMerge><feMergeNode in="b"/><feMergeNode in="SourceGraphic"/></feMerge></filter>
+    <filter id="sglow"><feGaussianBlur stdDeviation="9" result="b"/><feMerge><feMergeNode in="b"/><feMergeNode in="SourceGraphic"/></feMerge></filter>
   </defs>
 
-  <!-- Sky and ground -->
-  <rect width="900" height="330" fill="url(#bSky)"/>
-  <rect x="0" y="260" width="900" height="70" fill="url(#bGnd)"/>
+  <rect width="900" height="340" fill="url(#sky)"/>
+  <rect x="0" y="265" width="900" height="75" fill="url(#gnd)"/>
 
   <!-- Stars -->
-  <circle cx="45" cy="18" r="1.2" fill="#fff8e7" opacity="0.7"/>
-  <circle cx="112" cy="12" r="0.8" fill="#fff8e7" opacity="0.5"/>
-  <circle cx="200" cy="26" r="1.5" fill="#FFD700" opacity="0.6"/>
-  <circle cx="268" cy="9" r="0.9" fill="#fff8e7" opacity="0.5"/>
-  <circle cx="355" cy="20" r="1.1" fill="#fff8e7" opacity="0.6"/>
-  <circle cx="532" cy="16" r="1.3" fill="#fff8e7" opacity="0.7"/>
-  <circle cx="625" cy="24" r="0.8" fill="#fff8e7" opacity="0.5"/>
-  <circle cx="714" cy="11" r="1.1" fill="#FFD700" opacity="0.6"/>
-  <circle cx="805" cy="28" r="0.9" fill="#fff8e7" opacity="0.5"/>
-  <circle cx="862" cy="14" r="1.2" fill="#fff8e7" opacity="0.6"/>
-  <circle cx="75" cy="44" r="0.7" fill="#fff8e7" opacity="0.4"/>
-  <circle cx="158" cy="48" r="1.0" fill="#FF9933" opacity="0.5"/>
-  <circle cx="752" cy="40" r="0.8" fill="#fff8e7" opacity="0.4"/>
-  <circle cx="880" cy="48" r="1.1" fill="#FF9933" opacity="0.5"/>
+  <circle cx="42"  cy="16" r="1.3" fill="#fff8e7" opacity="0.75"/>
+  <circle cx="108" cy="10" r="0.9" fill="#fff8e7" opacity="0.55"/>
+  <circle cx="196" cy="28" r="1.6" fill="#FFD700" opacity="0.65"/>
+  <circle cx="264" cy="8"  r="0.9" fill="#fff8e7" opacity="0.5"/>
+  <circle cx="350" cy="22" r="1.1" fill="#fff8e7" opacity="0.65"/>
+  <circle cx="528" cy="14" r="1.4" fill="#fff8e7" opacity="0.7"/>
+  <circle cx="622" cy="26" r="0.8" fill="#fff8e7" opacity="0.5"/>
+  <circle cx="710" cy="10" r="1.2" fill="#FFD700" opacity="0.65"/>
+  <circle cx="802" cy="30" r="0.9" fill="#fff8e7" opacity="0.5"/>
+  <circle cx="858" cy="13" r="1.3" fill="#fff8e7" opacity="0.65"/>
+  <circle cx="72"  cy="46" r="0.7" fill="#fff8e7" opacity="0.4"/>
+  <circle cx="155" cy="50" r="1.1" fill="#FF9933" opacity="0.5"/>
+  <circle cx="748" cy="42" r="0.8" fill="#fff8e7" opacity="0.42"/>
+  <circle cx="876" cy="50" r="1.2" fill="#FF9933" opacity="0.5"/>
+  <circle cx="430" cy="8"  r="0.8" fill="#fff8e7" opacity="0.45"/>
+  <circle cx="488" cy="32" r="0.6" fill="#FFD700" opacity="0.35"/>
 
   <!-- Crescent moon -->
-  <circle cx="808" cy="52" r="18" fill="#0d0520"/>
-  <circle cx="816" cy="46" r="18" fill="#160828"/>
-  <path d="M796 43 Q822 48 806 70 Q785 62 796 43Z" fill="#fff8e7" opacity="0.85"/>
+  <circle cx="810" cy="55" r="20" fill="#0d0420"/>
+  <circle cx="819" cy="48" r="20" fill="#150728"/>
+  <path d="M797 44 Q825 50 808 73 Q784 63 797 44Z" fill="#fff4e0" opacity="0.88"/>
 
   <!-- Divine aura -->
-  <ellipse cx="450" cy="195" rx="230" ry="115" fill="url(#divAura)"/>
+  <ellipse cx="450" cy="200" rx="235" ry="118" fill="url(#aura)"/>
 
-  <!-- Sudarshana Chakra -->
-  <circle cx="148" cy="88" r="36" fill="none" stroke="#FFD700" stroke-width="2" filter="url(#fg)"/>
-  <circle cx="148" cy="88" r="28" fill="none" stroke="#FF9933" stroke-width="1.2"/>
-  <circle cx="148" cy="88" r="18" fill="none" stroke="#FFD700" stroke-width="1.5"/>
-  <circle cx="148" cy="88" r="8" fill="#FFD700" opacity="0.45"/>
-  <line x1="148" y1="52" x2="148" y2="74" stroke="#FFD700" stroke-width="1.5"/>
-  <line x1="148" y1="102" x2="148" y2="124" stroke="#FFD700" stroke-width="1.5"/>
-  <line x1="112" y1="88" x2="130" y2="88" stroke="#FFD700" stroke-width="1.5"/>
-  <line x1="166" y1="88" x2="184" y2="88" stroke="#FFD700" stroke-width="1.5"/>
-  <line x1="122" y1="62" x2="136" y2="76" stroke="#FFD700" stroke-width="1.5"/>
-  <line x1="160" y1="100" x2="174" y2="114" stroke="#FFD700" stroke-width="1.5"/>
-  <line x1="122" y1="114" x2="136" y2="100" stroke="#FFD700" stroke-width="1.5"/>
-  <line x1="160" y1="76" x2="174" y2="62" stroke="#FFD700" stroke-width="1.5"/>
-  <circle cx="148" cy="88" r="40" fill="url(#ckGlow)" opacity="0.55"/>
+  <!-- SUDARSHANA CHAKRA -->
+  <circle cx="152" cy="92" r="38" fill="none" stroke="#FFD700" stroke-width="2.2" filter="url(#glow)"/>
+  <circle cx="152" cy="92" r="30" fill="none" stroke="#FF9933" stroke-width="1.3"/>
+  <circle cx="152" cy="92" r="19" fill="none" stroke="#FFD700" stroke-width="1.6"/>
+  <circle cx="152" cy="92" r="8"  fill="#FFD700" opacity="0.48"/>
+  <line x1="152" y1="54"  x2="152" y2="77"  stroke="#FFD700" stroke-width="1.8"/>
+  <line x1="152" y1="107" x2="152" y2="130" stroke="#FFD700" stroke-width="1.8"/>
+  <line x1="114" y1="92"  x2="133" y2="92"  stroke="#FFD700" stroke-width="1.8"/>
+  <line x1="171" y1="92"  x2="190" y2="92"  stroke="#FFD700" stroke-width="1.8"/>
+  <line x1="125" y1="65"  x2="139" y2="79"  stroke="#FFD700" stroke-width="1.8"/>
+  <line x1="165" y1="105" x2="179" y2="119" stroke="#FFD700" stroke-width="1.8"/>
+  <line x1="125" y1="119" x2="139" y2="105" stroke="#FFD700" stroke-width="1.8"/>
+  <line x1="165" y1="79"  x2="179" y2="65"  stroke="#FFD700" stroke-width="1.8"/>
+  <circle cx="152" cy="92" r="44" fill="url(#ckg)" opacity="0.5"/>
 
-  <!-- Panchajanya Conch -->
-  <path d="M755 68 Q770 58 780 70 Q790 83 775 93 Q760 98 750 86 Q743 74 755 68Z" fill="#f0ede8" opacity="0.78" filter="url(#fg)"/>
-  <path d="M775 93 Q783 106 790 113" stroke="#FFD700" stroke-width="1.5" fill="none"/>
-  <circle cx="755" cy="68" r="3" fill="#FFD700" opacity="0.6"/>
+  <!-- PANCHAJANYA CONCH -->
+  <path d="M756 70 Q772 59 783 72 Q794 86 778 96 Q762 102 751 89 Q744 76 756 70Z" fill="#f5f0ea" opacity="0.82" filter="url(#glow)"/>
+  <path d="M778 96 Q787 110 795 118" stroke="#FFD700" stroke-width="1.8" fill="none"/>
+  <circle cx="756" cy="70" r="3.5" fill="#FFD700" opacity="0.65"/>
 
-  <!-- Left army -->
-  <rect x="12" y="225" width="3" height="45" fill="#2a1000" opacity="0.8"/>
-  <polygon points="12,225 15,225 13,214" fill="#8B0000" opacity="0.7"/>
-  <rect x="26" y="222" width="3" height="48" fill="#2a1000" opacity="0.7"/>
-  <polygon points="26,222 29,222 27,210" fill="#8B0000" opacity="0.6"/>
-  <rect x="40" y="228" width="3" height="42" fill="#2a1000" opacity="0.8"/>
-  <rect x="54" y="224" width="3" height="46" fill="#2a1000" opacity="0.6"/>
-  <polygon points="54,224 57,224 55,212" fill="#FF6B00" opacity="0.5"/>
-  <rect x="68" y="230" width="3" height="40" fill="#2a1000" opacity="0.7"/>
-  <rect x="82" y="226" width="3" height="44" fill="#2a1000" opacity="0.5"/>
-  <!-- Left elephant -->
-  <ellipse cx="108" cy="248" rx="24" ry="15" fill="#1a0800" opacity="0.6"/>
-  <circle cx="88" cy="242" r="12" fill="#1a0800" opacity="0.6"/>
-  <line x1="86" y1="254" x2="82" y2="270" stroke="#1a0800" stroke-width="4" opacity="0.6"/>
-  <line x1="96" y1="258" x2="94" y2="274" stroke="#1a0800" stroke-width="4" opacity="0.6"/>
-  <line x1="108" y1="260" x2="106" y2="276" stroke="#1a0800" stroke-width="4" opacity="0.6"/>
-  <line x1="120" y1="258" x2="120" y2="274" stroke="#1a0800" stroke-width="4" opacity="0.6"/>
-  <path d="M80 242 Q71 248 74 258" stroke="#1a0800" stroke-width="5" fill="none" opacity="0.6"/>
+  <!-- LEFT ARMY -->
+  <rect x="10"  y="228" width="3" height="46" fill="#2a0e00" opacity="0.85"/>
+  <polygon points="10,228 13,228 11,217" fill="#8B0000" opacity="0.75"/>
+  <rect x="24"  y="225" width="3" height="50" fill="#2a0e00" opacity="0.75"/>
+  <polygon points="24,225 27,225 25,213" fill="#8B0000" opacity="0.65"/>
+  <rect x="38"  y="231" width="3" height="44" fill="#2a0e00" opacity="0.85"/>
+  <rect x="52"  y="226" width="3" height="48" fill="#2a0e00" opacity="0.65"/>
+  <polygon points="52,226 55,226 53,214" fill="#FF6B00" opacity="0.55"/>
+  <rect x="66"  y="233" width="3" height="42" fill="#2a0e00" opacity="0.75"/>
+  <rect x="80"  y="228" width="3" height="46" fill="#2a0e00" opacity="0.55"/>
+  <ellipse cx="112" cy="252" rx="26" ry="16" fill="#180600" opacity="0.62"/>
+  <circle  cx="90"  cy="245" r="13"           fill="#180600" opacity="0.62"/>
+  <line x1="88"  y1="258" x2="84"  y2="276" stroke="#180600" stroke-width="4.5" opacity="0.62"/>
+  <line x1="100" y1="263" x2="98"  y2="281" stroke="#180600" stroke-width="4.5" opacity="0.62"/>
+  <line x1="114" y1="265" x2="112" y2="283" stroke="#180600" stroke-width="4.5" opacity="0.62"/>
+  <line x1="126" y1="263" x2="126" y2="281" stroke="#180600" stroke-width="4.5" opacity="0.62"/>
+  <path d="M82 245 Q72 252 76 263" stroke="#180600" stroke-width="5.5" fill="none" opacity="0.62"/>
 
-  <!-- Right army -->
-  <rect x="814" y="225" width="3" height="45" fill="#2a1000" opacity="0.8"/>
-  <polygon points="814,225 817,225 815,214" fill="#8B0000" opacity="0.7"/>
-  <rect x="828" y="222" width="3" height="48" fill="#2a1000" opacity="0.7"/>
-  <rect x="842" y="228" width="3" height="42" fill="#2a1000" opacity="0.8"/>
-  <rect x="856" y="224" width="3" height="46" fill="#2a1000" opacity="0.6"/>
-  <polygon points="856,224 859,224 857,212" fill="#FF6B00" opacity="0.5"/>
-  <rect x="870" y="230" width="3" height="40" fill="#2a1000" opacity="0.7"/>
-  <rect x="884" y="226" width="3" height="44" fill="#2a1000" opacity="0.5"/>
+  <!-- RIGHT ARMY -->
+  <rect x="816" y="228" width="3" height="46" fill="#2a0e00" opacity="0.85"/>
+  <polygon points="816,228 819,228 817,217" fill="#8B0000" opacity="0.75"/>
+  <rect x="830" y="225" width="3" height="50" fill="#2a0e00" opacity="0.75"/>
+  <rect x="844" y="231" width="3" height="44" fill="#2a0e00" opacity="0.85"/>
+  <rect x="858" y="226" width="3" height="48" fill="#2a0e00" opacity="0.65"/>
+  <polygon points="858,226 861,226 859,214" fill="#FF6B00" opacity="0.55"/>
+  <rect x="872" y="233" width="3" height="42" fill="#2a0e00" opacity="0.75"/>
+  <rect x="886" y="228" width="3" height="46" fill="#2a0e00" opacity="0.55"/>
 
   <!-- YOKE -->
-  <line x1="343" y1="255" x2="226" y2="248" stroke="#6B3A0A" stroke-width="4"/>
-  <line x1="226" y1="248" x2="192" y2="244" stroke="#6B3A0A" stroke-width="3"/>
-  <line x1="226" y1="248" x2="192" y2="252" stroke="#6B3A0A" stroke-width="3"/>
+  <line x1="346" y1="258" x2="228" y2="251" stroke="#6B3A0A" stroke-width="4.5"/>
+  <line x1="228" y1="251" x2="193" y2="247" stroke="#6B3A0A" stroke-width="3.5"/>
+  <line x1="228" y1="251" x2="193" y2="255" stroke="#6B3A0A" stroke-width="3.5"/>
 
-  <!-- HORSES (4, layered depth) -->
-  <ellipse cx="170" cy="254" rx="40" ry="14" fill="#c0bdb5" opacity="0.5"/>
-  <circle cx="134" cy="248" r="10" fill="#c0bdb5" opacity="0.5"/>
-  <line x1="133" y1="258" x2="129" y2="274" stroke="#989590" stroke-width="3" opacity="0.5"/>
-  <line x1="148" y1="264" x2="146" y2="280" stroke="#989590" stroke-width="3" opacity="0.5"/>
-  <line x1="162" y1="265" x2="161" y2="281" stroke="#989590" stroke-width="3" opacity="0.5"/>
-  <line x1="178" y1="264" x2="178" y2="280" stroke="#989590" stroke-width="3" opacity="0.5"/>
-  <ellipse cx="180" cy="246" rx="43" ry="16" fill="#d0ccc4" opacity="0.7"/>
-  <circle cx="141" cy="239" r="12" fill="#d0ccc4" opacity="0.7"/>
-  <line x1="140" y1="251" x2="136" y2="268" stroke="#a8a4a0" stroke-width="3" opacity="0.7"/>
-  <line x1="154" y1="259" x2="152" y2="276" stroke="#a8a4a0" stroke-width="3" opacity="0.7"/>
-  <line x1="170" y1="259" x2="168" y2="276" stroke="#a8a4a0" stroke-width="3" opacity="0.7"/>
-  <line x1="186" y1="258" x2="186" y2="275" stroke="#a8a4a0" stroke-width="3" opacity="0.7"/>
-  <path d="M143 239 Q150 232 157 246" stroke="#888480" stroke-width="2" fill="none" opacity="0.7"/>
-  <ellipse cx="196" cy="238" rx="45" ry="17" fill="#dedad2" opacity="0.85"/>
-  <circle cx="154" cy="230" r="13" fill="#dedad2" opacity="0.85"/>
-  <line x1="153" y1="243" x2="148" y2="261" stroke="#b8b4ac" stroke-width="3.5" opacity="0.8"/>
-  <line x1="168" y1="252" x2="165" y2="270" stroke="#b8b4ac" stroke-width="3.5" opacity="0.8"/>
-  <line x1="186" y1="252" x2="185" y2="270" stroke="#b8b4ac" stroke-width="3.5" opacity="0.8"/>
-  <line x1="204" y1="251" x2="204" y2="269" stroke="#b8b4ac" stroke-width="3.5" opacity="0.8"/>
-  <path d="M156 230 Q164 222 170 236" stroke="#909088" stroke-width="2.5" fill="none" opacity="0.8"/>
-  <polygon points="153,222 150,216 159,220" fill="#ccc8c0" opacity="0.85"/>
-  <ellipse cx="214" cy="230" rx="47" ry="18" fill="#eae6de" opacity="0.96"/>
-  <circle cx="169" cy="221" r="14" fill="#eae6de" opacity="0.96"/>
-  <line x1="167" y1="235" x2="162" y2="254" stroke="#c4c0b8" stroke-width="4" opacity="0.9"/>
-  <line x1="183" y1="245" x2="180" y2="264" stroke="#c4c0b8" stroke-width="4" opacity="0.9"/>
-  <line x1="202" y1="245" x2="201" y2="264" stroke="#c4c0b8" stroke-width="4" opacity="0.9"/>
-  <line x1="221" y1="244" x2="221" y2="263" stroke="#c4c0b8" stroke-width="4" opacity="0.9"/>
-  <path d="M171 221 Q179 211 186 226" stroke="#a8a4a0" stroke-width="3" fill="none" opacity="0.9"/>
-  <polygon points="168,213 165,206 175,211" fill="#d8d4cc" opacity="0.9"/>
-  <!-- Reins -->
-  <path d="M444 216 Q348 230 234 242" stroke="#5a3808" stroke-width="1.5" fill="none" opacity="0.7"/>
-  <path d="M444 218 Q348 232 234 246" stroke="#5a3808" stroke-width="1.5" fill="none" opacity="0.65"/>
-  <path d="M444 220 Q348 234 234 250" stroke="#5a3808" stroke-width="1.5" fill="none" opacity="0.6"/>
-  <path d="M444 222 Q348 236 234 254" stroke="#5a3808" stroke-width="1.5" fill="none" opacity="0.55"/>
+  <!-- FOUR HORSES -->
+  <ellipse cx="172" cy="257" rx="42" ry="15" fill="#b8b5ae" opacity="0.5"/>
+  <circle cx="134" cy="250" r="11" fill="#b8b5ae" opacity="0.5"/>
+  <line x1="133" y1="261" x2="129" y2="278" stroke="#928f8a" stroke-width="3" opacity="0.5"/>
+  <line x1="149" y1="268" x2="147" y2="285" stroke="#928f8a" stroke-width="3" opacity="0.5"/>
+  <line x1="164" y1="268" x2="163" y2="286" stroke="#928f8a" stroke-width="3" opacity="0.5"/>
+  <line x1="180" y1="267" x2="180" y2="285" stroke="#928f8a" stroke-width="3" opacity="0.5"/>
+  <ellipse cx="182" cy="249" rx="45" ry="17" fill="#ccc8c0" opacity="0.72"/>
+  <circle cx="142" cy="241" r="13" fill="#ccc8c0" opacity="0.72"/>
+  <line x1="141" y1="254" x2="137" y2="272" stroke="#a4a09c" stroke-width="3.2" opacity="0.7"/>
+  <line x1="157" y1="262" x2="155" y2="280" stroke="#a4a09c" stroke-width="3.2" opacity="0.7"/>
+  <line x1="173" y1="262" x2="171" y2="280" stroke="#a4a09c" stroke-width="3.2" opacity="0.7"/>
+  <line x1="188" y1="261" x2="188" y2="279" stroke="#a4a09c" stroke-width="3.2" opacity="0.7"/>
+  <path d="M144 241 Q152 233 159 248" stroke="#848280" stroke-width="2.2" fill="none" opacity="0.7"/>
+  <ellipse cx="198" cy="241" rx="47" ry="18" fill="#dbd7cf" opacity="0.87"/>
+  <circle cx="156" cy="232" r="14" fill="#dbd7cf" opacity="0.87"/>
+  <line x1="154" y1="246" x2="149" y2="265" stroke="#b4b0a8" stroke-width="3.8" opacity="0.82"/>
+  <line x1="170" y1="255" x2="167" y2="274" stroke="#b4b0a8" stroke-width="3.8" opacity="0.82"/>
+  <line x1="188" y1="255" x2="187" y2="274" stroke="#b4b0a8" stroke-width="3.8" opacity="0.82"/>
+  <line x1="206" y1="254" x2="206" y2="273" stroke="#b4b0a8" stroke-width="3.8" opacity="0.82"/>
+  <path d="M157 232 Q166 223 172 238" stroke="#8c8880" stroke-width="2.8" fill="none" opacity="0.82"/>
+  <polygon points="154,224 151,217 161,222" fill="#cac6be" opacity="0.87"/>
+  <ellipse cx="216" cy="232" rx="49" ry="20" fill="#eae6de" opacity="0.98"/>
+  <circle cx="171" cy="222" r="15" fill="#eae6de" opacity="0.98"/>
+  <line x1="169" y1="237" x2="164" y2="258" stroke="#c0bcb4" stroke-width="4.5" opacity="0.92"/>
+  <line x1="186" y1="248" x2="183" y2="268" stroke="#c0bcb4" stroke-width="4.5" opacity="0.92"/>
+  <line x1="204" y1="248" x2="203" y2="268" stroke="#c0bcb4" stroke-width="4.5" opacity="0.92"/>
+  <line x1="223" y1="247" x2="223" y2="267" stroke="#c0bcb4" stroke-width="4.5" opacity="0.92"/>
+  <path d="M173 222 Q182 212 188 228" stroke="#a0a09a" stroke-width="3.2" fill="none" opacity="0.92"/>
+  <polygon points="170,214 167,207 177,212" fill="#d6d2ca" opacity="0.92"/>
+  <path d="M447 218 Q350 234 237 245" stroke="#5a3808" stroke-width="1.6" fill="none" opacity="0.72"/>
+  <path d="M447 220 Q350 236 237 249" stroke="#5a3808" stroke-width="1.6" fill="none" opacity="0.66"/>
+  <path d="M447 222 Q350 238 237 253" stroke="#5a3808" stroke-width="1.6" fill="none" opacity="0.60"/>
+  <path d="M447 224 Q350 240 237 257" stroke="#5a3808" stroke-width="1.6" fill="none" opacity="0.54"/>
 
   <!-- CHARIOT BODY -->
-  <rect x="343" y="192" width="214" height="70" rx="6" fill="#1a0800" stroke="#c8760a" stroke-width="2"/>
-  <rect x="353" y="202" width="194" height="50" rx="4" fill="#0d0400" stroke="#FFD700" stroke-width="0.8" opacity="0.4"/>
-  <circle cx="347" cy="196" r="5" fill="#FFD700" filter="url(#fg)" opacity="0.9"/>
-  <circle cx="553" cy="196" r="5" fill="#FFD700" filter="url(#fg)" opacity="0.9"/>
-  <circle cx="347" cy="258" r="5" fill="#FFD700" filter="url(#fg)" opacity="0.9"/>
-  <circle cx="553" cy="258" r="5" fill="#FFD700" filter="url(#fg)" opacity="0.9"/>
-  <line x1="398" y1="192" x2="398" y2="262" stroke="#c8760a" stroke-width="0.8" opacity="0.35"/>
-  <line x1="450" y1="192" x2="450" y2="262" stroke="#c8760a" stroke-width="0.8" opacity="0.35"/>
-  <line x1="502" y1="192" x2="502" y2="262" stroke="#c8760a" stroke-width="0.8" opacity="0.35"/>
-  <rect x="343" y="190" width="214" height="6" rx="3" fill="#c8760a" opacity="0.75"/>
-  <rect x="330" y="258" width="242" height="8" rx="4" fill="#6B3A0A" stroke="#c8760a" stroke-width="0.8"/>
+  <rect x="346" y="194" width="216" height="72" rx="7" fill="#180700" stroke="#c87810" stroke-width="2.2"/>
+  <rect x="357" y="205" width="194" height="50" rx="5" fill="#0c0300" stroke="#FFD700" stroke-width="0.9" opacity="0.4"/>
+  <circle cx="350" cy="198" r="5.5" fill="#FFD700" filter="url(#glow)" opacity="0.92"/>
+  <circle cx="558" cy="198" r="5.5" fill="#FFD700" filter="url(#glow)" opacity="0.92"/>
+  <circle cx="350" cy="262" r="5.5" fill="#FFD700" filter="url(#glow)" opacity="0.92"/>
+  <circle cx="558" cy="262" r="5.5" fill="#FFD700" filter="url(#glow)" opacity="0.92"/>
+  <line x1="402" y1="194" x2="402" y2="266" stroke="#c87810" stroke-width="0.9" opacity="0.38"/>
+  <line x1="454" y1="194" x2="454" y2="266" stroke="#c87810" stroke-width="0.9" opacity="0.38"/>
+  <line x1="506" y1="194" x2="506" y2="266" stroke="#c87810" stroke-width="0.9" opacity="0.38"/>
+  <rect x="346" y="192" width="216" height="7" rx="3.5" fill="#c87810" opacity="0.78"/>
+  <rect x="333" y="262" width="246" height="8" rx="4" fill="#6B3A0A" stroke="#c87810" stroke-width="0.9"/>
 
   <!-- CANOPY -->
-  <path d="M449 122 Q378 136 358 164 Q403 157 449 155 Q495 157 542 164 Q522 136 449 122Z" fill="#8B0000" opacity="0.9" stroke="#FFD700" stroke-width="0.8"/>
-  <path d="M358 164 Q403 172 449 170 Q495 172 542 164" stroke="#FFD700" stroke-width="1.5" fill="none"/>
-  <line x1="449" y1="122" x2="449" y2="192" stroke="#8B5E0A" stroke-width="2.5"/>
-  <circle cx="449" cy="119" r="5" fill="#FFD700" filter="url(#fg)"/>
+  <path d="M452 124 Q380 139 360 167 Q406 160 452 158 Q498 160 544 167 Q524 139 452 124Z" fill="#8B0000" opacity="0.93" stroke="#FFD700" stroke-width="0.9"/>
+  <path d="M360 167 Q406 175 452 173 Q498 175 544 167" stroke="#FFD700" stroke-width="1.8" fill="none"/>
+  <line x1="452" y1="124" x2="452" y2="194" stroke="#8B5E0A" stroke-width="2.8"/>
+  <circle cx="452" cy="121" r="5.5" fill="#FFD700" filter="url(#glow)"/>
+  <line x1="370" y1="167" x2="368" y2="177" stroke="#FFD700" stroke-width="1.2" opacity="0.7"/>
+  <line x1="390" y1="171" x2="388" y2="182" stroke="#FFD700" stroke-width="1.2" opacity="0.7"/>
+  <line x1="514" y1="171" x2="512" y2="182" stroke="#FFD700" stroke-width="1.2" opacity="0.7"/>
+  <line x1="534" y1="167" x2="532" y2="177" stroke="#FFD700" stroke-width="1.2" opacity="0.7"/>
 
-  <!-- FLAG + Hanuman -->
-  <line x1="466" y1="58" x2="466" y2="192" stroke="#6B3A0A" stroke-width="2.5"/>
-  <polygon points="466,60 466,106 512,82" fill="#FF6B00" opacity="0.9" stroke="#FFD700" stroke-width="1"/>
-  <circle cx="466" cy="58" r="3.5" fill="#FFD700" filter="url(#fg)"/>
+  <!-- HANUMAN FLAG -->
+  <line x1="470" y1="56" x2="470" y2="194" stroke="#6B3A0A" stroke-width="2.8"/>
+  <polygon points="470,58 470,108 518,82" fill="#FF6B00" opacity="0.93" stroke="#FFD700" stroke-width="1.1"/>
+  <circle cx="492" cy="82" r="7" fill="#FFD700" opacity="0.28"/>
+  <circle cx="470" cy="56" r="4" fill="#FFD700" filter="url(#glow)"/>
 
-  <!-- LEFT WHEEL (12 spokes) -->
-  <circle cx="362" cy="272" r="36" fill="none" stroke="#c8760a" stroke-width="3"/>
-  <circle cx="362" cy="272" r="29" fill="none" stroke="#6B3A0A" stroke-width="1.5"/>
-  <circle cx="362" cy="272" r="11" fill="#FFD700" opacity="0.65" filter="url(#fg)"/>
-  <circle cx="362" cy="272" r="6" fill="#1a0800"/>
-  <line x1="362" y1="236" x2="362" y2="258" stroke="#c8760a" stroke-width="2"/>
-  <line x1="362" y1="286" x2="362" y2="308" stroke="#c8760a" stroke-width="2"/>
-  <line x1="326" y1="272" x2="348" y2="272" stroke="#c8760a" stroke-width="2"/>
-  <line x1="376" y1="272" x2="398" y2="272" stroke="#c8760a" stroke-width="2"/>
-  <line x1="336" y1="246" x2="353" y2="261" stroke="#c8760a" stroke-width="2"/>
-  <line x1="371" y1="283" x2="388" y2="298" stroke="#c8760a" stroke-width="2"/>
-  <line x1="336" y1="298" x2="353" y2="283" stroke="#c8760a" stroke-width="2"/>
-  <line x1="371" y1="261" x2="388" y2="246" stroke="#c8760a" stroke-width="2"/>
-  <line x1="344" y1="239" x2="357" y2="257" stroke="#c8760a" stroke-width="1.5" opacity="0.55"/>
-  <line x1="367" y1="287" x2="380" y2="305" stroke="#c8760a" stroke-width="1.5" opacity="0.55"/>
-  <line x1="380" y1="239" x2="367" y2="257" stroke="#c8760a" stroke-width="1.5" opacity="0.55"/>
-  <line x1="344" y1="305" x2="357" y2="287" stroke="#c8760a" stroke-width="1.5" opacity="0.55"/>
-  <circle cx="362" cy="272" r="41" fill="url(#wGlow)" opacity="0.5"/>
+  <!-- LEFT WHEEL 12 spokes -->
+  <circle cx="365" cy="276" r="37" fill="none" stroke="#c87810" stroke-width="3.2"/>
+  <circle cx="365" cy="276" r="29" fill="none" stroke="#6B3A0A" stroke-width="1.6"/>
+  <circle cx="365" cy="276" r="12" fill="#FFD700" opacity="0.68" filter="url(#glow)"/>
+  <circle cx="365" cy="276" r="6"  fill="#180700"/>
+  <line x1="365" y1="239" x2="365" y2="261" stroke="#c87810" stroke-width="2.2"/>
+  <line x1="365" y1="291" x2="365" y2="313" stroke="#c87810" stroke-width="2.2"/>
+  <line x1="328" y1="276" x2="350" y2="276" stroke="#c87810" stroke-width="2.2"/>
+  <line x1="380" y1="276" x2="402" y2="276" stroke="#c87810" stroke-width="2.2"/>
+  <line x1="339" y1="250" x2="356" y2="265" stroke="#c87810" stroke-width="2.2"/>
+  <line x1="374" y1="287" x2="391" y2="302" stroke="#c87810" stroke-width="2.2"/>
+  <line x1="339" y1="302" x2="356" y2="287" stroke="#c87810" stroke-width="2.2"/>
+  <line x1="374" y1="265" x2="391" y2="250" stroke="#c87810" stroke-width="2.2"/>
+  <line x1="347" y1="243" x2="360" y2="261" stroke="#c87810" stroke-width="1.6" opacity="0.55"/>
+  <line x1="370" y1="291" x2="383" y2="309" stroke="#c87810" stroke-width="1.6" opacity="0.55"/>
+  <line x1="383" y1="243" x2="370" y2="261" stroke="#c87810" stroke-width="1.6" opacity="0.55"/>
+  <line x1="347" y1="309" x2="360" y2="291" stroke="#c87810" stroke-width="1.6" opacity="0.55"/>
+  <circle cx="365" cy="276" r="42" fill="url(#wg)" opacity="0.52"/>
 
-  <!-- RIGHT WHEEL (12 spokes) -->
-  <circle cx="538" cy="272" r="36" fill="none" stroke="#c8760a" stroke-width="3"/>
-  <circle cx="538" cy="272" r="29" fill="none" stroke="#6B3A0A" stroke-width="1.5"/>
-  <circle cx="538" cy="272" r="11" fill="#FFD700" opacity="0.65" filter="url(#fg)"/>
-  <circle cx="538" cy="272" r="6" fill="#1a0800"/>
-  <line x1="538" y1="236" x2="538" y2="258" stroke="#c8760a" stroke-width="2"/>
-  <line x1="538" y1="286" x2="538" y2="308" stroke="#c8760a" stroke-width="2"/>
-  <line x1="502" y1="272" x2="524" y2="272" stroke="#c8760a" stroke-width="2"/>
-  <line x1="552" y1="272" x2="574" y2="272" stroke="#c8760a" stroke-width="2"/>
-  <line x1="512" y1="246" x2="529" y2="261" stroke="#c8760a" stroke-width="2"/>
-  <line x1="547" y1="283" x2="564" y2="298" stroke="#c8760a" stroke-width="2"/>
-  <line x1="512" y1="298" x2="529" y2="283" stroke="#c8760a" stroke-width="2"/>
-  <line x1="547" y1="261" x2="564" y2="246" stroke="#c8760a" stroke-width="2"/>
-  <line x1="520" y1="239" x2="533" y2="257" stroke="#c8760a" stroke-width="1.5" opacity="0.55"/>
-  <line x1="543" y1="287" x2="556" y2="305" stroke="#c8760a" stroke-width="1.5" opacity="0.55"/>
-  <line x1="556" y1="239" x2="543" y2="257" stroke="#c8760a" stroke-width="1.5" opacity="0.55"/>
-  <line x1="520" y1="305" x2="533" y2="287" stroke="#c8760a" stroke-width="1.5" opacity="0.55"/>
-  <circle cx="538" cy="272" r="41" fill="url(#wGlow)" opacity="0.5"/>
+  <!-- RIGHT WHEEL 12 spokes -->
+  <circle cx="543" cy="276" r="37" fill="none" stroke="#c87810" stroke-width="3.2"/>
+  <circle cx="543" cy="276" r="29" fill="none" stroke="#6B3A0A" stroke-width="1.6"/>
+  <circle cx="543" cy="276" r="12" fill="#FFD700" opacity="0.68" filter="url(#glow)"/>
+  <circle cx="543" cy="276" r="6"  fill="#180700"/>
+  <line x1="543" y1="239" x2="543" y2="261" stroke="#c87810" stroke-width="2.2"/>
+  <line x1="543" y1="291" x2="543" y2="313" stroke="#c87810" stroke-width="2.2"/>
+  <line x1="506" y1="276" x2="528" y2="276" stroke="#c87810" stroke-width="2.2"/>
+  <line x1="558" y1="276" x2="580" y2="276" stroke="#c87810" stroke-width="2.2"/>
+  <line x1="517" y1="250" x2="534" y2="265" stroke="#c87810" stroke-width="2.2"/>
+  <line x1="552" y1="287" x2="569" y2="302" stroke="#c87810" stroke-width="2.2"/>
+  <line x1="517" y1="302" x2="534" y2="287" stroke="#c87810" stroke-width="2.2"/>
+  <line x1="552" y1="265" x2="569" y2="250" stroke="#c87810" stroke-width="2.2"/>
+  <line x1="525" y1="243" x2="538" y2="261" stroke="#c87810" stroke-width="1.6" opacity="0.55"/>
+  <line x1="548" y1="291" x2="561" y2="309" stroke="#c87810" stroke-width="1.6" opacity="0.55"/>
+  <line x1="561" y1="243" x2="548" y2="261" stroke="#c87810" stroke-width="1.6" opacity="0.55"/>
+  <line x1="525" y1="309" x2="538" y2="291" stroke="#c87810" stroke-width="1.6" opacity="0.55"/>
+  <circle cx="543" cy="276" r="42" fill="url(#wg)" opacity="0.52"/>
 
-  <!-- KRISHNA (charioteer, left of chariot) -->
-  <ellipse cx="412" cy="225" rx="17" ry="25" fill="#c8760a" opacity="0.95"/>
-  <path d="M396 215 Q404 203 412 209 Q420 203 428 215 Q424 222 412 217 Q400 222 396 215Z" fill="#FFD700" opacity="0.9" filter="url(#fg)"/>
-  <path d="M396 215 Q388 227 392 242" stroke="#FFD700" stroke-width="2" fill="none" opacity="0.65"/>
-  <circle cx="412" cy="191" r="14" fill="#1a0a2e" opacity="0.96"/>
-  <path d="M404 191 Q409 176 412 169 Q415 176 420 191Z" fill="#c8760a" opacity="0.9"/>
-  <path d="M412 169 Q410 157 408 148 Q413 153 412 144 Q415 153 416 148 Q417 157 412 169Z" fill="#1a5c10" opacity="0.95" filter="url(#fg)"/>
-  <ellipse cx="412" cy="145" rx="4" ry="5" fill="#1a0a8a" opacity="0.9"/>
-  <circle cx="412" cy="145" r="1.5" fill="#FFD700" opacity="0.95"/>
-  <ellipse cx="426" cy="215" rx="6" ry="8" fill="#f0ede8" opacity="0.78"/>
-  <circle cx="412" cy="191" r="27" fill="none" stroke="#FFD700" stroke-width="1" opacity="0.45" filter="url(#fg)"/>
-  <circle cx="412" cy="191" r="35" fill="none" stroke="#FF9933" stroke-width="0.5" opacity="0.2"/>
+  <!-- KRISHNA -->
+  <ellipse cx="415" cy="228" rx="17" ry="26" fill="#c87810" opacity="0.97"/>
+  <path d="M398 217 Q407 204 415 210 Q423 204 432 217 Q427 224 415 219 Q403 224 398 217Z" fill="#FFD700" opacity="0.93" filter="url(#glow)"/>
+  <path d="M415 170 Q413 158 411 148 Q416 154 415 144 Q418 154 419 148 Q421 158 415 170Z" fill="#1a6614" opacity="0.97" filter="url(#glow)"/>
+  <ellipse cx="415" cy="146" rx="4.5" ry="5.5" fill="#1a1a8a" opacity="0.92"/>
+  <circle cx="415" cy="146" r="1.8" fill="#FFD700" opacity="0.97"/>
+  <path d="M407 193 Q412 178 415 171 Q418 178 423 193Z" fill="#c87810" opacity="0.92"/>
+  <circle cx="415" cy="193" r="15" fill="#1a0a2e" opacity="0.97"/>
+  <circle cx="415" cy="193" r="29" fill="none" stroke="#FFD700" stroke-width="1.1" opacity="0.48" filter="url(#glow)"/>
+  <circle cx="415" cy="193" r="38" fill="none" stroke="#FF9933" stroke-width="0.6" opacity="0.22"/>
+  <path d="M398 217 Q390 230 394 245" stroke="#FFD700" stroke-width="2.2" fill="none" opacity="0.68"/>
+  <ellipse cx="430" cy="217" rx="6" ry="9" fill="#f0ede8" opacity="0.80"/>
 
-  <!-- ARJUNA (archer, right of chariot) -->
-  <ellipse cx="490" cy="222" rx="16" ry="24" fill="#4a2e08" opacity="0.96"/>
-  <ellipse cx="490" cy="219" rx="12" ry="14" fill="#6B4010" opacity="0.9"/>
-  <ellipse cx="490" cy="219" rx="12" ry="14" fill="none" stroke="#c8760a" stroke-width="1" opacity="0.65"/>
-  <circle cx="490" cy="189" r="14" fill="#3d2008" opacity="0.96"/>
-  <path d="M477 189 Q482 173 490 167 Q498 173 503 189Z" fill="#8B5E0A" opacity="0.9" stroke="#c8760a" stroke-width="0.8"/>
-  <polygon points="490,165 487,172 493,172" fill="#FFD700" opacity="0.95"/>
-  <circle cx="490" cy="163" r="3" fill="#FFD700" filter="url(#fg)"/>
-  <circle cx="477" cy="193" r="2.5" fill="#FFD700" opacity="0.8"/>
-  <circle cx="503" cy="193" r="2.5" fill="#FFD700" opacity="0.8"/>
-  <!-- Gandiva bow -->
-  <path d="M506 162 Q537 189 520 220" stroke="#8B5E0A" stroke-width="3.5" fill="none" filter="url(#fg)"/>
-  <line x1="506" y1="162" x2="520" y2="220" stroke="#c8760a" stroke-width="1" opacity="0.75"/>
-  <!-- Arrow -->
-  <line x1="490" y1="197" x2="540" y2="182" stroke="#c8760a" stroke-width="1.5" opacity="0.9" filter="url(#fg)"/>
-  <polygon points="540,182 533,177 534,187" fill="#FFD700" opacity="0.9" filter="url(#fg)"/>
-  <!-- Quiver -->
-  <rect x="473" y="190" width="10" height="26" rx="4" fill="#2a1000" stroke="#6B3A0A" stroke-width="1"/>
-  <line x1="475" y1="190" x2="475" y2="181" stroke="#8B5E0A" stroke-width="1.5"/>
-  <line x1="479" y1="190" x2="479" y2="179" stroke="#8B5E0A" stroke-width="1.5"/>
-  <line x1="483" y1="190" x2="483" y2="181" stroke="#8B5E0A" stroke-width="1.5"/>
-  <!-- Shield -->
-  <ellipse cx="478" cy="228" rx="10" ry="12" fill="#4a2e08" stroke="#c8760a" stroke-width="1" opacity="0.8"/>
-  <circle cx="478" cy="228" r="4" fill="#c8760a" opacity="0.5"/>
+  <!-- ARJUNA -->
+  <ellipse cx="494" cy="225" rx="17" ry="25" fill="#4a2e08" opacity="0.97"/>
+  <ellipse cx="494" cy="222" rx="13" ry="15" fill="#6B4010" opacity="0.92"/>
+  <ellipse cx="494" cy="222" rx="13" ry="15" fill="none" stroke="#c87810" stroke-width="1.1" opacity="0.68"/>
+  <circle cx="494" cy="191" r="15" fill="#3d2008" opacity="0.97"/>
+  <path d="M479 191 Q485 174 494 168 Q503 174 509 191Z" fill="#8B5E0A" opacity="0.92" stroke="#c87810" stroke-width="0.9"/>
+  <polygon points="494,166 490,174 498,174" fill="#FFD700" opacity="0.97"/>
+  <circle cx="494" cy="164" r="3.5" fill="#FFD700" filter="url(#glow)"/>
+  <circle cx="479" cy="195" r="2.8" fill="#FFD700" opacity="0.82"/>
+  <circle cx="509" cy="195" r="2.8" fill="#FFD700" opacity="0.82"/>
+  <path d="M510 163 Q542 192 524 224" stroke="#8B5E0A" stroke-width="4" fill="none" filter="url(#glow)"/>
+  <line x1="510" y1="163" x2="524" y2="224" stroke="#c87810" stroke-width="1.1" opacity="0.78"/>
+  <line x1="494" y1="198" x2="546" y2="183" stroke="#c87810" stroke-width="1.8" opacity="0.92" filter="url(#glow)"/>
+  <polygon points="546,183 538,178 540,188" fill="#FFD700" opacity="0.92" filter="url(#glow)"/>
+  <rect x="476" y="192" width="11" height="28" rx="4.5" fill="#2a1000" stroke="#6B3A0A" stroke-width="1.1"/>
+  <line x1="478" y1="192" x2="478" y2="182" stroke="#8B5E0A" stroke-width="1.8"/>
+  <line x1="482" y1="192" x2="482" y2="180" stroke="#8B5E0A" stroke-width="1.8"/>
+  <line x1="486" y1="192" x2="486" y2="182" stroke="#8B5E0A" stroke-width="1.8"/>
+  <ellipse cx="481" cy="231" rx="11" ry="13" fill="#4a2e08" stroke="#c87810" stroke-width="1.1" opacity="0.82"/>
+  <circle cx="481" cy="231" r="4.5" fill="#c87810" opacity="0.52"/>
 
-  <!-- Sanskrit verse at top -->
-  <text x="450" y="38" text-anchor="middle" font-family="serif" font-size="13" fill="#FFD700" opacity="0.92" filter="url(#sg)" letter-spacing="2">कर्मण्येवाधिकारस्ते मा फलेषु कदाचन</text>
-  <text x="450" y="55" text-anchor="middle" font-family="serif" font-size="9" fill="#FF9933" opacity="0.7" letter-spacing="1">Bhagavad Gita 2.47 · Kurukshetra · कुरुक्षेत्र</text>
+  <!-- Sanskrit verse -->
+  <text x="450" y="37" text-anchor="middle" font-family="serif" font-size="13.5" fill="#FFD700" opacity="0.94" filter="url(#sglow)" letter-spacing="2.2">कर्मण्येवाधिकारस्ते मा फलेषु कदाचन</text>
+  <text x="450" y="55" text-anchor="middle" font-family="serif" font-size="9.5" fill="#FF9933" opacity="0.7" letter-spacing="1.2">Bhagavad Gita 2.47 · कुरुक्षेत्र · Kurukshetra, India</text>
 
-  <!-- Ground dust line -->
-  <rect x="0" y="300" width="900" height="30" fill="#1a0800" opacity="0.7"/>
-  <line x1="0" y1="302" x2="900" y2="302" stroke="#FF6B00" stroke-width="0.8" opacity="0.3"/>
+  <!-- Ground dust -->
+  <rect x="0" y="306" width="900" height="34" fill="#180700" opacity="0.72"/>
+  <line x1="0" y1="308" x2="900" y2="308" stroke="#FF6B00" stroke-width="0.9" opacity="0.32"/>
+  <circle cx="160" cy="315" r="1.2" fill="#FF6B00" opacity="0.18"/>
+  <circle cx="380" cy="320" r="0.9" fill="#FFD700" opacity="0.14"/>
+  <circle cx="610" cy="313" r="1.4" fill="#FF6B00" opacity="0.16"/>
+  <circle cx="780" cy="318" r="1.0" fill="#FFD700" opacity="0.14"/>
 </svg>
-
 </div>
 
 ---
@@ -360,7 +378,7 @@
 ## ⚔️ `class Saksham : public Warrior`
 
 ```cpp
-// Kurukshetra — Where dharma was defined on the battlefield
+// Kurukshetra — Where dharma was forged in fire
 
 class Saksham : public AIEngineer, public QuantTrader, public Builder {
 private:
@@ -393,31 +411,31 @@ public:
 
 **Languages**
 
-![C++](https://img.shields.io/badge/C++-FF6B00?style=for-the-badge&logo=cplusplus&logoColor=white)
-![Python](https://img.shields.io/badge/Python-FF9933?style=for-the-badge&logo=python&logoColor=white)
+![C++](https://img.shields.io/badge/C++-8B0000?style=for-the-badge&logo=cplusplus&logoColor=FFD700)
+![Python](https://img.shields.io/badge/Python-FF6B00?style=for-the-badge&logo=python&logoColor=white)
 ![TypeScript](https://img.shields.io/badge/TypeScript-FFD700?style=for-the-badge&logo=typescript&logoColor=1a0800)
-![JavaScript](https://img.shields.io/badge/JavaScript-c8760a?style=for-the-badge&logo=javascript&logoColor=white)
+![JavaScript](https://img.shields.io/badge/JavaScript-c87810?style=for-the-badge&logo=javascript&logoColor=white)
 
 **AI / ML**
 
-![PyTorch](https://img.shields.io/badge/PyTorch-FF6B00?style=for-the-badge&logo=pytorch&logoColor=white)
-![scikit-learn](https://img.shields.io/badge/scikit--learn-FF9933?style=for-the-badge&logo=scikit-learn&logoColor=white)
-![LangChain](https://img.shields.io/badge/LangChain-c8760a?style=for-the-badge&logo=langchain&logoColor=white)
+![PyTorch](https://img.shields.io/badge/PyTorch-8B0000?style=for-the-badge&logo=pytorch&logoColor=FFD700)
+![scikit-learn](https://img.shields.io/badge/scikit--learn-FF6B00?style=for-the-badge&logo=scikit-learn&logoColor=white)
+![LangChain](https://img.shields.io/badge/LangChain-c87810?style=for-the-badge&logo=langchain&logoColor=white)
 ![OpenAI](https://img.shields.io/badge/OpenAI-FFD700?style=for-the-badge&logo=openai&logoColor=1a0800)
-![Jupyter](https://img.shields.io/badge/Jupyter-FF6B00?style=for-the-badge&logo=jupyter&logoColor=white)
+![Jupyter](https://img.shields.io/badge/Jupyter-FF9933?style=for-the-badge&logo=jupyter&logoColor=white)
 
 **Quant & Trading**
 
-![NumPy](https://img.shields.io/badge/NumPy-FF9933?style=for-the-badge&logo=numpy&logoColor=white)
-![Pandas](https://img.shields.io/badge/Pandas-c8760a?style=for-the-badge&logo=pandas&logoColor=white)
-![Matplotlib](https://img.shields.io/badge/Matplotlib-FF6B00?style=for-the-badge&logo=python&logoColor=white)
+![NumPy](https://img.shields.io/badge/NumPy-FF6B00?style=for-the-badge&logo=numpy&logoColor=white)
+![Pandas](https://img.shields.io/badge/Pandas-8B0000?style=for-the-badge&logo=pandas&logoColor=FFD700)
+![Matplotlib](https://img.shields.io/badge/Matplotlib-c87810?style=for-the-badge&logo=python&logoColor=white)
 
 **Tools**
 
-![Git](https://img.shields.io/badge/Git-FF6B00?style=for-the-badge&logo=git&logoColor=white)
-![Linux](https://img.shields.io/badge/Linux-FF9933?style=for-the-badge&logo=linux&logoColor=white)
+![Git](https://img.shields.io/badge/Git-8B0000?style=for-the-badge&logo=git&logoColor=FFD700)
+![Linux](https://img.shields.io/badge/Linux-FF6B00?style=for-the-badge&logo=linux&logoColor=white)
 ![Vercel](https://img.shields.io/badge/Vercel-FFD700?style=for-the-badge&logo=vercel&logoColor=1a0800)
-![VS Code](https://img.shields.io/badge/VS%20Code-c8760a?style=for-the-badge&logo=visual-studio-code&logoColor=white)
+![VS Code](https://img.shields.io/badge/VS%20Code-c87810?style=for-the-badge&logo=visual-studio-code&logoColor=white)
 
 </div>
 
@@ -431,52 +449,56 @@ public:
 | [**medaiii**](https://github.com/AnshXGrind/medaiii) | AI-powered medical intelligence | Python · AI/ML |
 | [**python-data-cleaning-project**](https://github.com/AnshXGrind/python-data-cleaning-project) | Clean & prep raw datasets | Python · Jupyter |
 
-> *More projects being forged in silence. Watch this space.*
+> *More weapons being forged in the silence of Kurukshetra. Watch this space.*
 
 ---
 
 ## 🧘 The Arjuna Mindset
 
 <div align="center">
-
-<svg viewBox="0 0 860 178" xmlns="http://www.w3.org/2000/svg" width="88%">
+<svg viewBox="0 0 860 184" xmlns="http://www.w3.org/2000/svg" width="88%">
   <defs>
-    <linearGradient id="cBg" x1="0%" y1="0%" x2="100%" y2="100%">
-      <stop offset="0%" style="stop-color:#0d0500"/>
-      <stop offset="100%" style="stop-color:#1a0800"/>
+    <linearGradient id="mb" x1="0%" y1="0%" x2="100%" y2="100%">
+      <stop offset="0%" style="stop-color:#0a0200"/><stop offset="100%" style="stop-color:#180700"/>
     </linearGradient>
-    <filter id="cg"><feGaussianBlur stdDeviation="3" result="b"/><feMerge><feMergeNode in="b"/><feMergeNode in="SourceGraphic"/></feMerge></filter>
+    <filter id="mg"><feGaussianBlur stdDeviation="3.5" result="b"/><feMerge><feMergeNode in="b"/><feMergeNode in="SourceGraphic"/></feMerge></filter>
   </defs>
-  <rect width="860" height="178" rx="10" fill="url(#cBg)" stroke="#FF6B00" stroke-width="1.5" opacity="0.85"/>
-  <!-- Corner chakra ornaments -->
-  <circle cx="12" cy="12" r="4" fill="#FFD700" opacity="0.7" filter="url(#cg)"/>
-  <circle cx="848" cy="12" r="4" fill="#FFD700" opacity="0.7" filter="url(#cg)"/>
-  <circle cx="12" cy="166" r="4" fill="#FFD700" opacity="0.7" filter="url(#cg)"/>
-  <circle cx="848" cy="166" r="4" fill="#FFD700" opacity="0.7" filter="url(#cg)"/>
+  <rect width="860" height="184" rx="10" fill="url(#mb)" stroke="#8B0000" stroke-width="2" opacity="0.88"/>
+  <rect x="2" y="2" width="856" height="180" rx="9" fill="none" stroke="#FFD700" stroke-width="0.5" opacity="0.25"/>
+  <circle cx="14"  cy="14"  r="4.5" fill="#FFD700" opacity="0.75" filter="url(#mg)"/>
+  <circle cx="846" cy="14"  r="4.5" fill="#FFD700" opacity="0.75" filter="url(#mg)"/>
+  <circle cx="14"  cy="170" r="4.5" fill="#FFD700" opacity="0.75" filter="url(#mg)"/>
+  <circle cx="846" cy="170" r="4.5" fill="#FFD700" opacity="0.75" filter="url(#mg)"/>
   <!-- Left chakra -->
-  <circle cx="48" cy="89" r="22" fill="none" stroke="#FF6B00" stroke-width="1" opacity="0.45"/>
-  <circle cx="48" cy="89" r="14" fill="none" stroke="#FFD700" stroke-width="0.8" opacity="0.35"/>
-  <line x1="48" y1="67" x2="48" y2="79" stroke="#FF9933" stroke-width="1" opacity="0.4"/>
-  <line x1="48" y1="99" x2="48" y2="111" stroke="#FF9933" stroke-width="1" opacity="0.4"/>
-  <line x1="26" y1="89" x2="38" y2="89" stroke="#FF9933" stroke-width="1" opacity="0.4"/>
-  <line x1="58" y1="89" x2="70" y2="89" stroke="#FF9933" stroke-width="1" opacity="0.4"/>
+  <circle cx="52" cy="92" r="24" fill="none" stroke="#8B0000" stroke-width="1.2" opacity="0.55"/>
+  <circle cx="52" cy="92" r="15" fill="none" stroke="#FFD700" stroke-width="0.9" opacity="0.38"/>
+  <line x1="52" y1="68"  x2="52" y2="81"  stroke="#FF9933" stroke-width="1.2" opacity="0.44"/>
+  <line x1="52" y1="103" x2="52" y2="116" stroke="#FF9933" stroke-width="1.2" opacity="0.44"/>
+  <line x1="28" y1="92"  x2="41" y2="92"  stroke="#FF9933" stroke-width="1.2" opacity="0.44"/>
+  <line x1="63" y1="92"  x2="76" y2="92"  stroke="#FF9933" stroke-width="1.2" opacity="0.44"/>
+  <line x1="35" y1="75"  x2="45" y2="85"  stroke="#FF9933" stroke-width="1.2" opacity="0.44"/>
+  <line x1="59" y1="99"  x2="69" y2="109" stroke="#FF9933" stroke-width="1.2" opacity="0.44"/>
+  <line x1="35" y1="109" x2="45" y2="99"  stroke="#FF9933" stroke-width="1.2" opacity="0.44"/>
+  <line x1="59" y1="85"  x2="69" y2="75"  stroke="#FF9933" stroke-width="1.2" opacity="0.44"/>
   <!-- Right chakra -->
-  <circle cx="812" cy="89" r="22" fill="none" stroke="#FF6B00" stroke-width="1" opacity="0.45"/>
-  <circle cx="812" cy="89" r="14" fill="none" stroke="#FFD700" stroke-width="0.8" opacity="0.35"/>
-  <line x1="812" y1="67" x2="812" y2="79" stroke="#FF9933" stroke-width="1" opacity="0.4"/>
-  <line x1="812" y1="99" x2="812" y2="111" stroke="#FF9933" stroke-width="1" opacity="0.4"/>
-  <line x1="790" y1="89" x2="802" y2="89" stroke="#FF9933" stroke-width="1" opacity="0.4"/>
-  <line x1="822" y1="89" x2="834" y2="89" stroke="#FF9933" stroke-width="1" opacity="0.4"/>
-  <!-- Quote text -->
-  <text x="430" y="42" text-anchor="middle" font-family="serif" font-size="14" fill="#FFD700" opacity="0.9" letter-spacing="1">Arjuna did not ask "will I win?" — He asked "what is my dharma?"</text>
-  <line x1="180" y1="54" x2="680" y2="54" stroke="#FF6B00" stroke-width="0.5" opacity="0.35"/>
-  <text x="430" y="80" text-anchor="middle" font-family="monospace" font-size="12" fill="#FF9933" opacity="0.85">→  Ship the code. Not the hype.</text>
-  <text x="430" y="100" text-anchor="middle" font-family="monospace" font-size="12" fill="#FF9933" opacity="0.85">→  Solve the problem. Not perform the solution.</text>
-  <text x="430" y="120" text-anchor="middle" font-family="monospace" font-size="12" fill="#FF9933" opacity="0.85">→  Build the system. Then detach from the outcome.</text>
-  <line x1="180" y1="132" x2="680" y2="132" stroke="#FF6B00" stroke-width="0.5" opacity="0.35"/>
-  <text x="430" y="158" text-anchor="middle" font-family="serif" font-size="15" fill="#FFD700" opacity="0.95" letter-spacing="3">कर्म करो — फल की चिंता नहीं</text>
+  <circle cx="808" cy="92" r="24" fill="none" stroke="#8B0000" stroke-width="1.2" opacity="0.55"/>
+  <circle cx="808" cy="92" r="15" fill="none" stroke="#FFD700" stroke-width="0.9" opacity="0.38"/>
+  <line x1="808" y1="68"  x2="808" y2="81"  stroke="#FF9933" stroke-width="1.2" opacity="0.44"/>
+  <line x1="808" y1="103" x2="808" y2="116" stroke="#FF9933" stroke-width="1.2" opacity="0.44"/>
+  <line x1="784" y1="92"  x2="797" y2="92"  stroke="#FF9933" stroke-width="1.2" opacity="0.44"/>
+  <line x1="819" y1="92"  x2="832" y2="92"  stroke="#FF9933" stroke-width="1.2" opacity="0.44"/>
+  <line x1="791" y1="75"  x2="801" y2="85"  stroke="#FF9933" stroke-width="1.2" opacity="0.44"/>
+  <line x1="815" y1="99"  x2="825" y2="109" stroke="#FF9933" stroke-width="1.2" opacity="0.44"/>
+  <line x1="791" y1="109" x2="801" y2="99"  stroke="#FF9933" stroke-width="1.2" opacity="0.44"/>
+  <line x1="815" y1="85"  x2="825" y2="75"  stroke="#FF9933" stroke-width="1.2" opacity="0.44"/>
+  <text x="430" y="44"  text-anchor="middle" font-family="serif"    font-size="14.5" fill="#FFD700" opacity="0.93" letter-spacing="1.2">Arjuna did not ask "will I win?" — He asked "what is my dharma?"</text>
+  <line x1="170" y1="57" x2="690" y2="57" stroke="#8B0000" stroke-width="0.7" opacity="0.45"/>
+  <text x="430" y="84"  text-anchor="middle" font-family="monospace" font-size="12.5" fill="#FF9933" opacity="0.88">→  Ship the code. Not the hype.</text>
+  <text x="430" y="105" text-anchor="middle" font-family="monospace" font-size="12.5" fill="#FF9933" opacity="0.88">→  Solve the problem. Not perform the solution.</text>
+  <text x="430" y="126" text-anchor="middle" font-family="monospace" font-size="12.5" fill="#FF9933" opacity="0.88">→  Build the system. Then detach from the outcome.</text>
+  <line x1="170" y1="138" x2="690" y2="138" stroke="#8B0000" stroke-width="0.7" opacity="0.45"/>
+  <text x="430" y="164" text-anchor="middle" font-family="serif"    font-size="16"   fill="#FFD700" opacity="0.97" letter-spacing="3.5">कर्म करो — फल की चिंता नहीं</text>
 </svg>
-
 </div>
 
 ---
@@ -485,13 +507,13 @@ public:
 
 <div align="center">
 
-<img src="https://github-readme-stats.vercel.app/api?username=AnshXGrind&show_icons=true&theme=dark&hide_border=true&count_private=true&title_color=FF6B00&icon_color=FFD700&text_color=FF9933&bg_color=0d0500" height="165"/>
+<img src="https://github-readme-stats.vercel.app/api?username=AnshXGrind&show_icons=true&theme=dark&hide_border=true&count_private=true&title_color=FFD700&icon_color=FF6B00&text_color=FF9933&bg_color=0a0200" height="165"/>
 &nbsp;
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=AnshXGrind&layout=compact&theme=dark&hide_border=true&langs_count=6&title_color=FF6B00&text_color=FF9933&bg_color=0d0500" height="165"/>
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=AnshXGrind&layout=compact&theme=dark&hide_border=true&langs_count=6&title_color=FFD700&text_color=FF9933&bg_color=0a0200" height="165"/>
 
 <br/><br/>
 
-<img src="https://streak-stats.demolab.com?user=AnshXGrind&theme=dark&hide_border=true&ring=FF6B00&fire=FFD700&currStreakLabel=FF9933&background=0d0500&sideLabels=FF9933&dates=c8760a&currStreakNum=FFD700&sideNums=FF6B00"/>
+<img src="https://streak-stats.demolab.com?user=AnshXGrind&theme=dark&hide_border=true&ring=8B0000&fire=FFD700&currStreakLabel=FF9933&background=0a0200&sideLabels=FF9933&dates=c87810&currStreakNum=FFD700&sideNums=FF6B00"/>
 
 </div>
 
@@ -511,24 +533,25 @@ public:
 
 <br/>
 
-![Visitor Count](https://komarev.com/ghpvc/?username=AnshXGrind&color=FF6B00&style=for-the-badge&label=Profile+Views)
+![Visitor Count](https://komarev.com/ghpvc/?username=AnshXGrind&color=8B0000&style=for-the-badge&label=Profile+Views)
 
 <br/><br/>
 
-<svg viewBox="0 0 860 46" xmlns="http://www.w3.org/2000/svg" width="88%">
+<svg viewBox="0 0 860 50" xmlns="http://www.w3.org/2000/svg" width="88%">
   <defs>
-    <linearGradient id="ftBg" x1="0%" y1="0%" x2="100%" y2="0%">
-      <stop offset="0%" style="stop-color:#0d0500"/>
-      <stop offset="50%" style="stop-color:#1a0800"/>
-      <stop offset="100%" style="stop-color:#0d0500"/>
+    <linearGradient id="fb" x1="0%" y1="0%" x2="100%" y2="0%">
+      <stop offset="0%" style="stop-color:#0a0200"/>
+      <stop offset="50%" style="stop-color:#180700"/>
+      <stop offset="100%" style="stop-color:#0a0200"/>
     </linearGradient>
   </defs>
-  <rect width="860" height="46" rx="8" fill="url(#ftBg)" stroke="#FF6B00" stroke-width="0.8" opacity="0.6"/>
-  <text x="430" y="28" text-anchor="middle" font-family="monospace" font-size="12" fill="#FFD700" opacity="0.92" letter-spacing="1">"Arise. Act. Build. The fruit is not yours — the dharma is."  ·  ॐ</text>
+  <rect width="860" height="50" rx="8" fill="url(#fb)" stroke="#8B0000" stroke-width="1" opacity="0.65"/>
+  <rect x="1.5" y="1.5" width="857" height="47" rx="7" fill="none" stroke="#FFD700" stroke-width="0.4" opacity="0.22"/>
+  <text x="430" y="30" text-anchor="middle" font-family="monospace" font-size="12.5" fill="#FFD700" opacity="0.94" letter-spacing="1">"Arise. Act. Build. The fruit is not yours — the dharma is."  ·  ॐ</text>
 </svg>
 
 <br/><br/>
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=FF6B00,FF9933,FFD700,8B0000&height=90&section=footer" width="100%"/>
+<img src="https://capsule-render.vercel.app/api?type=waving&color=8B0000,FF6B00,FFD700,FF9933&height=95&section=footer" width="100%"/>
 
 </div>
