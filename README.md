@@ -1,18 +1,17 @@
 <!-- ════════════════════════════════════════════════════════════════════ -->
 <!--              SAKSHAM · ANSHXGRIND · GITHUB PROFILE README          -->
-<!--           Kurukshetra Theme · Saffron · Gold · Mahabharata         -->
+<!--        Kurukshetra · Saffron · Gold · Mahabharata · Dharma         -->
 <!-- ════════════════════════════════════════════════════════════════════ -->
 
 <div align="center">
 
 <!-- ──────────────── MAIN BANNER ──────────────── -->
-<img src="https://capsule-render.vercel.app/api?type=venom&color=FF6B00,FF9933,FFD700,FF6B00&height=200&section=header&text=SAKSHAM&fontSize=80&fontColor=fff8e7&fontAlignY=55&animation=fadeIn&desc=AnshXGrind%20%C2%B7%20Kurukshetra&descSize=18&descAlignY=75&descColor=FFD700" width="100%"/>
+<img src="https://capsule-render.vercel.app/api?type=venom&color=FF6B00,FF9933,FFD700,8B0000&height=220&section=header&text=SAKSHAM&fontSize=90&fontColor=fff8e7&fontAlignY=55&animation=fadeIn&desc=AnshXGrind%20%C2%B7%20Kurukshetra%20%C2%B7%20%E0%A4%95%E0%A4%B0%E0%A5%8D%E0%A4%AE%E0%A4%AF%E0%A5%8B%E0%A4%97%E0%A5%80&descSize=18&descAlignY=78&descColor=FFD700" width="100%"/>
 
 </div>
 
 <!-- ──────────────── OM DIVIDER ──────────────── -->
 <div align="center">
-
 <svg viewBox="0 0 900 50" xmlns="http://www.w3.org/2000/svg" width="100%">
   <defs>
     <linearGradient id="safDiv" x1="0%" y1="0%" x2="100%" y2="0%">
@@ -23,14 +22,13 @@
       <stop offset="100%" style="stop-color:#0d0500;stop-opacity:1"/>
     </linearGradient>
   </defs>
-  <rect x="0" y="24" width="900" height="1.5" fill="url(#safDiv)" opacity="0.5"/>
-  <text x="450" y="32" text-anchor="middle" font-family="serif" font-size="20" fill="#FFD700" opacity="0.9">ॐ</text>
-  <circle cx="300" cy="25" r="2" fill="#FF9933" opacity="0.6"/>
-  <circle cx="320" cy="25" r="1.5" fill="#FFD700" opacity="0.4"/>
-  <circle cx="580" cy="25" r="2" fill="#FF9933" opacity="0.6"/>
-  <circle cx="560" cy="25" r="1.5" fill="#FFD700" opacity="0.4"/>
+  <rect x="0" y="24" width="900" height="1.5" fill="url(#safDiv)" opacity="0.6"/>
+  <text x="450" y="33" text-anchor="middle" font-family="serif" font-size="22" fill="#FFD700" opacity="0.95">ॐ</text>
+  <circle cx="290" cy="25" r="2.5" fill="#FF9933" opacity="0.7"/>
+  <circle cx="314" cy="25" r="1.5" fill="#FFD700" opacity="0.5"/>
+  <circle cx="610" cy="25" r="2.5" fill="#FF9933" opacity="0.7"/>
+  <circle cx="586" cy="25" r="1.5" fill="#FFD700" opacity="0.5"/>
 </svg>
-
 </div>
 
 <!-- ──────────────── BADGES ──────────────── -->
@@ -51,7 +49,50 @@
 ---
 
 <!-- ══════════════════════════════════════════════════════════════════ -->
-<!--                     KURUKSHETRA BATTLEFIELD SVG                   -->
+<!--                  MAHABHARATA PAINTINGS — PUBLIC DOMAIN            -->
+<!-- ══════════════════════════════════════════════════════════════════ -->
+
+<div align="center">
+
+<table border="0" cellspacing="0" cellpadding="6">
+<tr>
+<td align="center" width="33%">
+<img src="https://upload.wikimedia.org/wikipedia/commons/thumb/1/1a/Arjuna_and_karna_in_war%2C_krishna_as_arjuna_charioter.jpg/480px-Arjuna_and_karna_in_war%2C_krishna_as_arjuna_charioter.jpg" width="100%" style="border: 2px solid #FF6B00; border-radius: 6px;"/>
+<br/><sub><b style="color:#FFD700;">⚔️ Arjuna & Karna · Kurukshetra War</b></sub>
+<br/><sub><i>Ancient Painting · Public Domain</i></sub>
+</td>
+<td align="center" width="33%">
+<img src="https://upload.wikimedia.org/wikipedia/commons/thumb/7/7e/Arjuna_and_His_Charioteer_Krishna_Confront_Karna.jpg/480px-Arjuna_and_His_Charioteer_Krishna_Confront_Karna.jpg" width="100%" style="border: 2px solid #FF9933; border-radius: 6px;"/>
+<br/><sub><b style="color:#FFD700;">🏹 Krishna & Arjuna vs Karna</b></sub>
+<br/><sub><i>Himachal Pradesh · Public Domain</i></sub>
+</td>
+<td align="center" width="33%">
+<img src="https://upload.wikimedia.org/wikipedia/commons/thumb/8/89/Krishna_and_Arjuna_in_Bali.JPG/480px-Krishna_and_Arjuna_in_Bali.JPG" width="100%" style="border: 2px solid #8B0000; border-radius: 6px;"/>
+<br/><sub><b style="color:#FFD700;">🔱 Krishna & Arjuna · Sculpture</b></sub>
+<br/><sub><i>Bali Temple · Public Domain</i></sub>
+</td>
+</tr>
+</table>
+
+</div>
+
+<div align="center">
+<svg viewBox="0 0 900 8" xmlns="http://www.w3.org/2000/svg" width="100%">
+  <defs>
+    <linearGradient id="hr1" x1="0%" y1="0%" x2="100%" y2="0%">
+      <stop offset="0%" style="stop-color:#0d0500"/>
+      <stop offset="25%" style="stop-color:#8B0000"/>
+      <stop offset="50%" style="stop-color:#FFD700"/>
+      <stop offset="75%" style="stop-color:#8B0000"/>
+      <stop offset="100%" style="stop-color:#0d0500"/>
+    </linearGradient>
+  </defs>
+  <rect width="900" height="2" y="3" fill="url(#hr1)"/>
+</svg>
+</div>
+
+<!-- ══════════════════════════════════════════════════════════════════ -->
+<!--                   KURUKSHETRA BATTLEFIELD SVG                     -->
 <!-- ══════════════════════════════════════════════════════════════════ -->
 
 <div align="center">
@@ -60,8 +101,8 @@
   <defs>
     <linearGradient id="bSky" x1="0%" y1="0%" x2="0%" y2="100%">
       <stop offset="0%" style="stop-color:#050208"/>
-      <stop offset="45%" style="stop-color:#160820"/>
-      <stop offset="80%" style="stop-color:#3d1500"/>
+      <stop offset="40%" style="stop-color:#160820"/>
+      <stop offset="78%" style="stop-color:#3d1500"/>
       <stop offset="100%" style="stop-color:#5c2000"/>
     </linearGradient>
     <linearGradient id="bGnd" x1="0%" y1="0%" x2="0%" y2="100%">
@@ -69,8 +110,8 @@
       <stop offset="100%" style="stop-color:#1a0800"/>
     </linearGradient>
     <radialGradient id="divAura" cx="50%" cy="60%" r="35%">
-      <stop offset="0%" style="stop-color:#FFD700;stop-opacity:0.22"/>
-      <stop offset="60%" style="stop-color:#FF6B00;stop-opacity:0.06"/>
+      <stop offset="0%" style="stop-color:#FFD700;stop-opacity:0.25"/>
+      <stop offset="60%" style="stop-color:#FF6B00;stop-opacity:0.07"/>
       <stop offset="100%" style="stop-color:#050208;stop-opacity:0"/>
     </radialGradient>
     <radialGradient id="wGlow" cx="50%" cy="50%" r="50%">
@@ -113,7 +154,7 @@
   <!-- Divine aura -->
   <ellipse cx="450" cy="195" rx="230" ry="115" fill="url(#divAura)"/>
 
-  <!-- Sudarshana Chakra (top-left) -->
+  <!-- Sudarshana Chakra -->
   <circle cx="148" cy="88" r="36" fill="none" stroke="#FFD700" stroke-width="2" filter="url(#fg)"/>
   <circle cx="148" cy="88" r="28" fill="none" stroke="#FF9933" stroke-width="1.2"/>
   <circle cx="148" cy="88" r="18" fill="none" stroke="#FFD700" stroke-width="1.5"/>
@@ -128,12 +169,12 @@
   <line x1="160" y1="76" x2="174" y2="62" stroke="#FFD700" stroke-width="1.5"/>
   <circle cx="148" cy="88" r="40" fill="url(#ckGlow)" opacity="0.55"/>
 
-  <!-- Panchajanya Conch (right) -->
+  <!-- Panchajanya Conch -->
   <path d="M755 68 Q770 58 780 70 Q790 83 775 93 Q760 98 750 86 Q743 74 755 68Z" fill="#f0ede8" opacity="0.78" filter="url(#fg)"/>
   <path d="M775 93 Q783 106 790 113" stroke="#FFD700" stroke-width="1.5" fill="none"/>
   <circle cx="755" cy="68" r="3" fill="#FFD700" opacity="0.6"/>
 
-  <!-- Left army spears -->
+  <!-- Left army -->
   <rect x="12" y="225" width="3" height="45" fill="#2a1000" opacity="0.8"/>
   <polygon points="12,225 15,225 13,214" fill="#8B0000" opacity="0.7"/>
   <rect x="26" y="222" width="3" height="48" fill="#2a1000" opacity="0.7"/>
@@ -152,7 +193,7 @@
   <line x1="120" y1="258" x2="120" y2="274" stroke="#1a0800" stroke-width="4" opacity="0.6"/>
   <path d="M80 242 Q71 248 74 258" stroke="#1a0800" stroke-width="5" fill="none" opacity="0.6"/>
 
-  <!-- Right army spears -->
+  <!-- Right army -->
   <rect x="814" y="225" width="3" height="45" fill="#2a1000" opacity="0.8"/>
   <polygon points="814,225 817,225 815,214" fill="#8B0000" opacity="0.7"/>
   <rect x="828" y="222" width="3" height="48" fill="#2a1000" opacity="0.7"/>
@@ -167,15 +208,13 @@
   <line x1="226" y1="248" x2="192" y2="244" stroke="#6B3A0A" stroke-width="3"/>
   <line x1="226" y1="248" x2="192" y2="252" stroke="#6B3A0A" stroke-width="3"/>
 
-  <!-- HORSES -->
-  <!-- Horse 4 farthest/palest -->
+  <!-- HORSES (4, layered depth) -->
   <ellipse cx="170" cy="254" rx="40" ry="14" fill="#c0bdb5" opacity="0.5"/>
   <circle cx="134" cy="248" r="10" fill="#c0bdb5" opacity="0.5"/>
   <line x1="133" y1="258" x2="129" y2="274" stroke="#989590" stroke-width="3" opacity="0.5"/>
   <line x1="148" y1="264" x2="146" y2="280" stroke="#989590" stroke-width="3" opacity="0.5"/>
   <line x1="162" y1="265" x2="161" y2="281" stroke="#989590" stroke-width="3" opacity="0.5"/>
   <line x1="178" y1="264" x2="178" y2="280" stroke="#989590" stroke-width="3" opacity="0.5"/>
-  <!-- Horse 3 -->
   <ellipse cx="180" cy="246" rx="43" ry="16" fill="#d0ccc4" opacity="0.7"/>
   <circle cx="141" cy="239" r="12" fill="#d0ccc4" opacity="0.7"/>
   <line x1="140" y1="251" x2="136" y2="268" stroke="#a8a4a0" stroke-width="3" opacity="0.7"/>
@@ -183,7 +222,6 @@
   <line x1="170" y1="259" x2="168" y2="276" stroke="#a8a4a0" stroke-width="3" opacity="0.7"/>
   <line x1="186" y1="258" x2="186" y2="275" stroke="#a8a4a0" stroke-width="3" opacity="0.7"/>
   <path d="M143 239 Q150 232 157 246" stroke="#888480" stroke-width="2" fill="none" opacity="0.7"/>
-  <!-- Horse 2 -->
   <ellipse cx="196" cy="238" rx="45" ry="17" fill="#dedad2" opacity="0.85"/>
   <circle cx="154" cy="230" r="13" fill="#dedad2" opacity="0.85"/>
   <line x1="153" y1="243" x2="148" y2="261" stroke="#b8b4ac" stroke-width="3.5" opacity="0.8"/>
@@ -192,7 +230,6 @@
   <line x1="204" y1="251" x2="204" y2="269" stroke="#b8b4ac" stroke-width="3.5" opacity="0.8"/>
   <path d="M156 230 Q164 222 170 236" stroke="#909088" stroke-width="2.5" fill="none" opacity="0.8"/>
   <polygon points="153,222 150,216 159,220" fill="#ccc8c0" opacity="0.85"/>
-  <!-- Horse 1 front/brightest -->
   <ellipse cx="214" cy="230" rx="47" ry="18" fill="#eae6de" opacity="0.96"/>
   <circle cx="169" cy="221" r="14" fill="#eae6de" opacity="0.96"/>
   <line x1="167" y1="235" x2="162" y2="254" stroke="#c4c0b8" stroke-width="4" opacity="0.9"/>
@@ -201,7 +238,7 @@
   <line x1="221" y1="244" x2="221" y2="263" stroke="#c4c0b8" stroke-width="4" opacity="0.9"/>
   <path d="M171 221 Q179 211 186 226" stroke="#a8a4a0" stroke-width="3" fill="none" opacity="0.9"/>
   <polygon points="168,213 165,206 175,211" fill="#d8d4cc" opacity="0.9"/>
-  <!-- Reins 4 lines -->
+  <!-- Reins -->
   <path d="M444 216 Q348 230 234 242" stroke="#5a3808" stroke-width="1.5" fill="none" opacity="0.7"/>
   <path d="M444 218 Q348 232 234 246" stroke="#5a3808" stroke-width="1.5" fill="none" opacity="0.65"/>
   <path d="M444 220 Q348 234 234 250" stroke="#5a3808" stroke-width="1.5" fill="none" opacity="0.6"/>
@@ -210,33 +247,28 @@
   <!-- CHARIOT BODY -->
   <rect x="343" y="192" width="214" height="70" rx="6" fill="#1a0800" stroke="#c8760a" stroke-width="2"/>
   <rect x="353" y="202" width="194" height="50" rx="4" fill="#0d0400" stroke="#FFD700" stroke-width="0.8" opacity="0.4"/>
-  <!-- Corner gems -->
   <circle cx="347" cy="196" r="5" fill="#FFD700" filter="url(#fg)" opacity="0.9"/>
   <circle cx="553" cy="196" r="5" fill="#FFD700" filter="url(#fg)" opacity="0.9"/>
   <circle cx="347" cy="258" r="5" fill="#FFD700" filter="url(#fg)" opacity="0.9"/>
   <circle cx="553" cy="258" r="5" fill="#FFD700" filter="url(#fg)" opacity="0.9"/>
-  <!-- Panel lines -->
   <line x1="398" y1="192" x2="398" y2="262" stroke="#c8760a" stroke-width="0.8" opacity="0.35"/>
   <line x1="450" y1="192" x2="450" y2="262" stroke="#c8760a" stroke-width="0.8" opacity="0.35"/>
   <line x1="502" y1="192" x2="502" y2="262" stroke="#c8760a" stroke-width="0.8" opacity="0.35"/>
-  <!-- Top golden rail -->
   <rect x="343" y="190" width="214" height="6" rx="3" fill="#c8760a" opacity="0.75"/>
-  <!-- Axle -->
   <rect x="330" y="258" width="242" height="8" rx="4" fill="#6B3A0A" stroke="#c8760a" stroke-width="0.8"/>
 
-  <!-- CANOPY (chhattra) -->
+  <!-- CANOPY -->
   <path d="M449 122 Q378 136 358 164 Q403 157 449 155 Q495 157 542 164 Q522 136 449 122Z" fill="#8B0000" opacity="0.9" stroke="#FFD700" stroke-width="0.8"/>
   <path d="M358 164 Q403 172 449 170 Q495 172 542 164" stroke="#FFD700" stroke-width="1.5" fill="none"/>
   <line x1="449" y1="122" x2="449" y2="192" stroke="#8B5E0A" stroke-width="2.5"/>
   <circle cx="449" cy="119" r="5" fill="#FFD700" filter="url(#fg)"/>
 
-  <!-- FLAG POLE + Hanuman flag -->
+  <!-- FLAG + Hanuman -->
   <line x1="466" y1="58" x2="466" y2="192" stroke="#6B3A0A" stroke-width="2.5"/>
-  <polygon points="466,60 466,106 512,82" fill="#8B0000" opacity="0.9" stroke="#FFD700" stroke-width="1"/>
-  <circle cx="486" cy="82" r="6" fill="#FFD700" opacity="0.25"/>
+  <polygon points="466,60 466,106 512,82" fill="#FF6B00" opacity="0.9" stroke="#FFD700" stroke-width="1"/>
   <circle cx="466" cy="58" r="3.5" fill="#FFD700" filter="url(#fg)"/>
 
-  <!-- LEFT WHEEL -->
+  <!-- LEFT WHEEL (12 spokes) -->
   <circle cx="362" cy="272" r="36" fill="none" stroke="#c8760a" stroke-width="3"/>
   <circle cx="362" cy="272" r="29" fill="none" stroke="#6B3A0A" stroke-width="1.5"/>
   <circle cx="362" cy="272" r="11" fill="#FFD700" opacity="0.65" filter="url(#fg)"/>
@@ -255,7 +287,7 @@
   <line x1="344" y1="305" x2="357" y2="287" stroke="#c8760a" stroke-width="1.5" opacity="0.55"/>
   <circle cx="362" cy="272" r="41" fill="url(#wGlow)" opacity="0.5"/>
 
-  <!-- RIGHT WHEEL -->
+  <!-- RIGHT WHEEL (12 spokes) -->
   <circle cx="538" cy="272" r="36" fill="none" stroke="#c8760a" stroke-width="3"/>
   <circle cx="538" cy="272" r="29" fill="none" stroke="#6B3A0A" stroke-width="1.5"/>
   <circle cx="538" cy="272" r="11" fill="#FFD700" opacity="0.65" filter="url(#fg)"/>
@@ -274,7 +306,7 @@
   <line x1="520" y1="305" x2="533" y2="287" stroke="#c8760a" stroke-width="1.5" opacity="0.55"/>
   <circle cx="538" cy="272" r="41" fill="url(#wGlow)" opacity="0.5"/>
 
-  <!-- KRISHNA -->
+  <!-- KRISHNA (charioteer, left of chariot) -->
   <ellipse cx="412" cy="225" rx="17" ry="25" fill="#c8760a" opacity="0.95"/>
   <path d="M396 215 Q404 203 412 209 Q420 203 428 215 Q424 222 412 217 Q400 222 396 215Z" fill="#FFD700" opacity="0.9" filter="url(#fg)"/>
   <path d="M396 215 Q388 227 392 242" stroke="#FFD700" stroke-width="2" fill="none" opacity="0.65"/>
@@ -287,7 +319,7 @@
   <circle cx="412" cy="191" r="27" fill="none" stroke="#FFD700" stroke-width="1" opacity="0.45" filter="url(#fg)"/>
   <circle cx="412" cy="191" r="35" fill="none" stroke="#FF9933" stroke-width="0.5" opacity="0.2"/>
 
-  <!-- ARJUNA -->
+  <!-- ARJUNA (archer, right of chariot) -->
   <ellipse cx="490" cy="222" rx="16" ry="24" fill="#4a2e08" opacity="0.96"/>
   <ellipse cx="490" cy="219" rx="12" ry="14" fill="#6B4010" opacity="0.9"/>
   <ellipse cx="490" cy="219" rx="12" ry="14" fill="none" stroke="#c8760a" stroke-width="1" opacity="0.65"/>
@@ -312,40 +344,15 @@
   <ellipse cx="478" cy="228" rx="10" ry="12" fill="#4a2e08" stroke="#c8760a" stroke-width="1" opacity="0.8"/>
   <circle cx="478" cy="228" r="4" fill="#c8760a" opacity="0.5"/>
 
-  <!-- Sanskrit verse -->
-  <text x="450" y="38" text-anchor="middle" font-family="serif" font-size="13" fill="#FFD700" opacity="0.88" filter="url(#sg)" letter-spacing="2">कर्मण्येवाधिकारस्ते मा फलेषु कदाचन</text>
-  <text x="450" y="54" text-anchor="middle" font-family="serif" font-size="9" fill="#FF9933" opacity="0.65" letter-spacing="1">Bhagavad Gita 2.47 · Kurukshetra</text>
+  <!-- Sanskrit verse at top -->
+  <text x="450" y="38" text-anchor="middle" font-family="serif" font-size="13" fill="#FFD700" opacity="0.92" filter="url(#sg)" letter-spacing="2">कर्मण्येवाधिकारस्ते मा फलेषु कदाचन</text>
+  <text x="450" y="55" text-anchor="middle" font-family="serif" font-size="9" fill="#FF9933" opacity="0.7" letter-spacing="1">Bhagavad Gita 2.47 · Kurukshetra · कुरुक्षेत्र</text>
 
-  <!-- Battlefield dust at bottom -->
+  <!-- Ground dust line -->
   <rect x="0" y="300" width="900" height="30" fill="#1a0800" opacity="0.7"/>
-  <line x1="0" y1="302" x2="900" y2="302" stroke="#FF6B00" stroke-width="0.8" opacity="0.25"/>
+  <line x1="0" y1="302" x2="900" y2="302" stroke="#FF6B00" stroke-width="0.8" opacity="0.3"/>
 </svg>
 
-</div>
-
-<!-- ══════════════════════════════════════════════════════════════════ -->
-<!--             REAL MAHABHARATA ART — PUBLIC DOMAIN                  -->
-<!-- ══════════════════════════════════════════════════════════════════ -->
-
-<div align="center">
-
-<table>
-<tr>
-<td align="center" width="50%">
-<img src="https://upload.wikimedia.org/wikipedia/commons/thumb/8/89/Krishna_and_Arjuna_in_Bali.JPG/720px-Krishna_and_Arjuna_in_Bali.JPG" width="98%"/>
-<br/><sub><i>Krishna &amp; Arjuna · Sculpture · Bali · Public Domain</i></sub>
-</td>
-<td align="center" width="50%">
-<img src="https://upload.wikimedia.org/wikipedia/commons/thumb/1/1a/Arjuna_and_karna_in_war%2C_krishna_as_arjuna_charioter.jpg/720px-Arjuna_and_karna_in_war%2C_krishna_as_arjuna_charioter.jpg" width="98%"/>
-<br/><sub><i>Arjuna &amp; Karna in Battle · Ancient Painting · Public Domain</i></sub>
-</td>
-</tr>
-</table>
-
-</div>
-
-<div align="center">
-<img src="https://capsule-render.vercel.app/api?type=soft&color=FF6B00,FF9933,FFD700&height=4" width="100%"/>
 </div>
 
 ---
@@ -432,39 +439,42 @@ public:
 
 <div align="center">
 
-<svg viewBox="0 0 860 170" xmlns="http://www.w3.org/2000/svg" width="88%">
+<svg viewBox="0 0 860 178" xmlns="http://www.w3.org/2000/svg" width="88%">
   <defs>
     <linearGradient id="cBg" x1="0%" y1="0%" x2="100%" y2="100%">
-      <stop offset="0%" style="stop-color:#0d0500"/><stop offset="100%" style="stop-color:#1a0800"/>
+      <stop offset="0%" style="stop-color:#0d0500"/>
+      <stop offset="100%" style="stop-color:#1a0800"/>
     </linearGradient>
     <filter id="cg"><feGaussianBlur stdDeviation="3" result="b"/><feMerge><feMergeNode in="b"/><feMergeNode in="SourceGraphic"/></feMerge></filter>
   </defs>
-  <rect width="860" height="170" rx="10" fill="url(#cBg)" stroke="#FF6B00" stroke-width="1.5" opacity="0.85"/>
+  <rect width="860" height="178" rx="10" fill="url(#cBg)" stroke="#FF6B00" stroke-width="1.5" opacity="0.85"/>
+  <!-- Corner chakra ornaments -->
   <circle cx="12" cy="12" r="4" fill="#FFD700" opacity="0.7" filter="url(#cg)"/>
   <circle cx="848" cy="12" r="4" fill="#FFD700" opacity="0.7" filter="url(#cg)"/>
-  <circle cx="12" cy="158" r="4" fill="#FFD700" opacity="0.7" filter="url(#cg)"/>
-  <circle cx="848" cy="158" r="4" fill="#FFD700" opacity="0.7" filter="url(#cg)"/>
-  <!-- Chakra decorations -->
-  <circle cx="48" cy="85" r="22" fill="none" stroke="#FF6B00" stroke-width="1" opacity="0.45"/>
-  <circle cx="48" cy="85" r="14" fill="none" stroke="#FFD700" stroke-width="0.8" opacity="0.35"/>
-  <line x1="48" y1="63" x2="48" y2="75" stroke="#FF9933" stroke-width="1" opacity="0.4"/>
-  <line x1="48" y1="95" x2="48" y2="107" stroke="#FF9933" stroke-width="1" opacity="0.4"/>
-  <line x1="26" y1="85" x2="38" y2="85" stroke="#FF9933" stroke-width="1" opacity="0.4"/>
-  <line x1="58" y1="85" x2="70" y2="85" stroke="#FF9933" stroke-width="1" opacity="0.4"/>
-  <circle cx="812" cy="85" r="22" fill="none" stroke="#FF6B00" stroke-width="1" opacity="0.45"/>
-  <circle cx="812" cy="85" r="14" fill="none" stroke="#FFD700" stroke-width="0.8" opacity="0.35"/>
-  <line x1="812" y1="63" x2="812" y2="75" stroke="#FF9933" stroke-width="1" opacity="0.4"/>
-  <line x1="812" y1="95" x2="812" y2="107" stroke="#FF9933" stroke-width="1" opacity="0.4"/>
-  <line x1="790" y1="85" x2="802" y2="85" stroke="#FF9933" stroke-width="1" opacity="0.4"/>
-  <line x1="822" y1="85" x2="834" y2="85" stroke="#FF9933" stroke-width="1" opacity="0.4"/>
-  <!-- Text -->
-  <text x="430" y="42" text-anchor="middle" font-family="serif" font-size="14" fill="#FFD700" opacity="0.9" letter-spacing="1">Arjuna did not ask "will I win?"  He asked "what is my dharma?"</text>
-  <line x1="200" y1="52" x2="660" y2="52" stroke="#FF6B00" stroke-width="0.5" opacity="0.35"/>
-  <text x="430" y="76" text-anchor="middle" font-family="monospace" font-size="12" fill="#FF9933" opacity="0.85">→  Ship the code. Not the hype.</text>
-  <text x="430" y="96" text-anchor="middle" font-family="monospace" font-size="12" fill="#FF9933" opacity="0.85">→  Solve the problem. Not perform the solution.</text>
-  <text x="430" y="116" text-anchor="middle" font-family="monospace" font-size="12" fill="#FF9933" opacity="0.85">→  Build the system. Then detach from the outcome.</text>
-  <line x1="200" y1="126" x2="660" y2="126" stroke="#FF6B00" stroke-width="0.5" opacity="0.35"/>
-  <text x="430" y="150" text-anchor="middle" font-family="serif" font-size="15" fill="#FFD700" opacity="0.95" letter-spacing="3">कर्म करो — फल की चिंता नहीं</text>
+  <circle cx="12" cy="166" r="4" fill="#FFD700" opacity="0.7" filter="url(#cg)"/>
+  <circle cx="848" cy="166" r="4" fill="#FFD700" opacity="0.7" filter="url(#cg)"/>
+  <!-- Left chakra -->
+  <circle cx="48" cy="89" r="22" fill="none" stroke="#FF6B00" stroke-width="1" opacity="0.45"/>
+  <circle cx="48" cy="89" r="14" fill="none" stroke="#FFD700" stroke-width="0.8" opacity="0.35"/>
+  <line x1="48" y1="67" x2="48" y2="79" stroke="#FF9933" stroke-width="1" opacity="0.4"/>
+  <line x1="48" y1="99" x2="48" y2="111" stroke="#FF9933" stroke-width="1" opacity="0.4"/>
+  <line x1="26" y1="89" x2="38" y2="89" stroke="#FF9933" stroke-width="1" opacity="0.4"/>
+  <line x1="58" y1="89" x2="70" y2="89" stroke="#FF9933" stroke-width="1" opacity="0.4"/>
+  <!-- Right chakra -->
+  <circle cx="812" cy="89" r="22" fill="none" stroke="#FF6B00" stroke-width="1" opacity="0.45"/>
+  <circle cx="812" cy="89" r="14" fill="none" stroke="#FFD700" stroke-width="0.8" opacity="0.35"/>
+  <line x1="812" y1="67" x2="812" y2="79" stroke="#FF9933" stroke-width="1" opacity="0.4"/>
+  <line x1="812" y1="99" x2="812" y2="111" stroke="#FF9933" stroke-width="1" opacity="0.4"/>
+  <line x1="790" y1="89" x2="802" y2="89" stroke="#FF9933" stroke-width="1" opacity="0.4"/>
+  <line x1="822" y1="89" x2="834" y2="89" stroke="#FF9933" stroke-width="1" opacity="0.4"/>
+  <!-- Quote text -->
+  <text x="430" y="42" text-anchor="middle" font-family="serif" font-size="14" fill="#FFD700" opacity="0.9" letter-spacing="1">Arjuna did not ask "will I win?" — He asked "what is my dharma?"</text>
+  <line x1="180" y1="54" x2="680" y2="54" stroke="#FF6B00" stroke-width="0.5" opacity="0.35"/>
+  <text x="430" y="80" text-anchor="middle" font-family="monospace" font-size="12" fill="#FF9933" opacity="0.85">→  Ship the code. Not the hype.</text>
+  <text x="430" y="100" text-anchor="middle" font-family="monospace" font-size="12" fill="#FF9933" opacity="0.85">→  Solve the problem. Not perform the solution.</text>
+  <text x="430" y="120" text-anchor="middle" font-family="monospace" font-size="12" fill="#FF9933" opacity="0.85">→  Build the system. Then detach from the outcome.</text>
+  <line x1="180" y1="132" x2="680" y2="132" stroke="#FF6B00" stroke-width="0.5" opacity="0.35"/>
+  <text x="430" y="158" text-anchor="middle" font-family="serif" font-size="15" fill="#FFD700" opacity="0.95" letter-spacing="3">कर्म करो — फल की चिंता नहीं</text>
 </svg>
 
 </div>
@@ -497,54 +507,6 @@ public:
 
 ---
 
-## 🗺️ The Roadmap
-
-<div align="center">
-
-<svg viewBox="0 0 860 200" xmlns="http://www.w3.org/2000/svg" width="88%">
-  <defs>
-    <linearGradient id="rmBg" x1="0%" y1="0%" x2="100%" y2="100%">
-      <stop offset="0%" style="stop-color:#0d0500"/><stop offset="100%" style="stop-color:#1a0800"/>
-    </linearGradient>
-    <filter id="rg"><feGaussianBlur stdDeviation="3" result="b"/><feMerge><feMergeNode in="b"/><feMergeNode in="SourceGraphic"/></feMerge></filter>
-  </defs>
-  <rect width="860" height="200" rx="10" fill="url(#rmBg)" stroke="#FF6B00" stroke-width="1.5" opacity="0.85"/>
-  <text x="430" y="32" text-anchor="middle" font-family="serif" font-size="15" fill="#FFD700" letter-spacing="4" opacity="0.9">THE PATH OF THE WARRIOR — KURUKSHETRA ROADMAP</text>
-  <line x1="60" y1="42" x2="800" y2="42" stroke="#FF6B00" stroke-width="0.5" opacity="0.35"/>
-  <!-- Row 1 -->
-  <circle cx="60" cy="72" r="7" fill="#FF6B00" filter="url(#rg)"/>
-  <text x="80" y="77" font-family="monospace" font-size="12" fill="#FF9933">C++ &amp; DSA Grind</text>
-  <line x1="175" y1="72" x2="320" y2="72" stroke="#c8760a" stroke-width="1" stroke-dasharray="6,3" opacity="0.55"/>
-  <polygon points="320,69 332,72 320,75" fill="#FFD700"/>
-  <circle cx="340" cy="72" r="7" fill="#FFD700" filter="url(#rg)"/>
-  <text x="360" y="77" font-family="monospace" font-size="12" fill="#FFD700">Quant-Ready Algorithms</text>
-  <!-- Row 2 -->
-  <circle cx="60" cy="108" r="7" fill="#FF6B00" filter="url(#rg)"/>
-  <text x="80" y="113" font-family="monospace" font-size="12" fill="#FF9933">AI / ML Engineering</text>
-  <line x1="190" y1="108" x2="320" y2="108" stroke="#c8760a" stroke-width="1" stroke-dasharray="6,3" opacity="0.55"/>
-  <polygon points="320,105 332,108 320,111" fill="#FFD700"/>
-  <circle cx="340" cy="108" r="7" fill="#FFD700" filter="url(#rg)"/>
-  <text x="360" y="113" font-family="monospace" font-size="12" fill="#FFD700">Autonomous Agent Systems</text>
-  <!-- Row 3 -->
-  <circle cx="60" cy="144" r="7" fill="#FF6B00" filter="url(#rg)"/>
-  <text x="80" y="149" font-family="monospace" font-size="12" fill="#FF9933">Algorithmic Trading</text>
-  <line x1="186" y1="144" x2="320" y2="144" stroke="#c8760a" stroke-width="1" stroke-dasharray="6,3" opacity="0.55"/>
-  <polygon points="320,141 332,144 320,147" fill="#FFD700"/>
-  <circle cx="340" cy="144" r="7" fill="#FFD700" filter="url(#rg)"/>
-  <text x="360" y="149" font-family="monospace" font-size="12" fill="#FFD700">Systematic Quant Research</text>
-  <!-- Row 4 -->
-  <circle cx="60" cy="178" r="8" fill="#8B0000" stroke="#FFD700" stroke-width="1.5" filter="url(#rg)"/>
-  <text x="82" y="183" font-family="monospace" font-size="12" fill="#FF9933">Open Source Contributions</text>
-  <line x1="228" y1="178" x2="320" y2="178" stroke="#c8760a" stroke-width="1" stroke-dasharray="6,3" opacity="0.55"/>
-  <polygon points="320,175 332,178 320,181" fill="#FFD700"/>
-  <circle cx="340" cy="178" r="8" fill="#8B0000" stroke="#FFD700" stroke-width="2" filter="url(#rg)"/>
-  <text x="362" y="183" font-family="monospace" font-size="12" fill="#FFD700" font-weight="bold">🚀  Startup Founder</text>
-</svg>
-
-</div>
-
----
-
 <div align="center">
 
 <br/>
@@ -553,18 +515,20 @@ public:
 
 <br/><br/>
 
-<svg viewBox="0 0 860 40" xmlns="http://www.w3.org/2000/svg" width="88%">
+<svg viewBox="0 0 860 46" xmlns="http://www.w3.org/2000/svg" width="88%">
   <defs>
     <linearGradient id="ftBg" x1="0%" y1="0%" x2="100%" y2="0%">
-      <stop offset="0%" style="stop-color:#0d0500"/><stop offset="50%" style="stop-color:#1a0800"/><stop offset="100%" style="stop-color:#0d0500"/>
+      <stop offset="0%" style="stop-color:#0d0500"/>
+      <stop offset="50%" style="stop-color:#1a0800"/>
+      <stop offset="100%" style="stop-color:#0d0500"/>
     </linearGradient>
   </defs>
-  <rect width="860" height="40" rx="8" fill="url(#ftBg)" stroke="#FF6B00" stroke-width="0.8" opacity="0.6"/>
-  <text x="430" y="25" text-anchor="middle" font-family="monospace" font-size="12" fill="#FFD700" opacity="0.9" letter-spacing="1">"Arise. Act. Build. The fruit is not yours — the dharma is."  ·  ॐ</text>
+  <rect width="860" height="46" rx="8" fill="url(#ftBg)" stroke="#FF6B00" stroke-width="0.8" opacity="0.6"/>
+  <text x="430" y="28" text-anchor="middle" font-family="monospace" font-size="12" fill="#FFD700" opacity="0.92" letter-spacing="1">"Arise. Act. Build. The fruit is not yours — the dharma is."  ·  ॐ</text>
 </svg>
 
 <br/><br/>
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=FF6B00,FF9933,FFD700,8B0000&height=80&section=footer" width="100%"/>
+<img src="https://capsule-render.vercel.app/api?type=waving&color=FF6B00,FF9933,FFD700,8B0000&height=90&section=footer" width="100%"/>
 
 </div>
