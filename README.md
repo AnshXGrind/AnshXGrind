@@ -185,6 +185,6 @@ class Saksham {
 
 ![footer](https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=24&height=120&section=footer)
 
-`KURUKSHETRA · DELHI · INDIA`
+`KURUKSHETRA · INDIA`
 
 </div>
