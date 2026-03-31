@@ -1,6 +1,12 @@
 <div align="center">
 
-![header](https://capsule-render.vercel.app/api?type=soft&color=f5f5f5&height=160&section=header&text=Saksham&fontSize=68&fontColor=111111&fontAlignY=55&desc=ML%20Engineer%20%C2%B7%20AI%20Agent%20Builder%20%C2%B7%20Delhi%2C%20India&descAlignY=78&descSize=13&descColor=777777)
+![header](https://capsule-render.vercel.app/api?type=venom&color=0:0a0a0f,40:0d1f3c,70:061428,100:0a0a0f&height=280&section=header&text=SAKSHAM&fontSize=90&fontColor=00d4ff&fontAlignY=45&desc=ML%20Engineer%20·%20AI%20Agent%20Architect%20·%20Builder&descSize=15&descColor=4a9eff&descAlignY=65&animation=fadeIn&stroke=00d4ff&strokeWidth=2)
+
+</div>
+
+<div align="center">
+
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=600&size=18&duration=2500&pause=900&color=00D4FF&center=true&vCenter=true&width=600&lines=⚡+Building+Autonomous+AI+Agents;🧠+LLMs+·+RAG+·+Multi-Agent+Systems;🤖+Turning+Ideas+into+Intelligent+Systems;💻+C%2B%2B+DSA+·+Codeforces+·+NeetCode;🚀+Shipping+in+Public+·+Delhi%2C+India)](https://git.io/typing-svg)
 
 </div>
 
@@ -8,178 +14,230 @@
 
 <div align="center">
 
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=400&size=14&duration=2800&pause=1000&color=444444&center=true&vCenter=true&width=480&lines=building+LLM-powered+agents+%F0%9F%A4%96;designing+multi-agent+systems;RAG+pipelines+%C2%B7+autonomous+AI;grinding+DSA+in+C%2B%2B+daily;shipping+in+public)](https://git.io/typing-svg)
+```
+◈━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━◈
+  SYSTEM ONLINE  ·  AI AGENT STACK INITIALIZED  ·  BUILDING...
+◈━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━◈
+```
 
 </div>
 
-<br>
+---
+
+<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
+
+## ⚡ ABOUT
+
+```python
+class Saksham:
+    name       = "Saksham"
+    alias      = "AnshXGrind"
+    base       = "Delhi, India  ·  from Kurukshetra"
+
+    focus      = [
+        "Autonomous AI Agents",
+        "Large Language Models (LLMs)",
+        "RAG Pipelines & Vector Search",
+        "Multi-Agent Orchestration",
+        "DSA in C++ · Competitive Programming",
+    ]
+
+    currently  = "Building agent systems that reason & act"
+    open_to    = "Collabs · Research · Open Source"
+    philosophy = "Ship fast. Learn. Iterate. Repeat."
+```
+
+<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
 
 ---
 
-<br>
-
-**About**
-
-I build things at the intersection of **AI agents**, **large language models**, and **autonomous systems**.  
-Currently focused on multi-agent orchestration and RAG-based pipelines.  
-Parallel track: sharpening competitive programming in C++.
-
-<br>
-
-```
-Location   Delhi, India  ·  from Kurukshetra
-Focus      AI Agents  ·  LLMs  ·  Autonomous Systems  ·  DSA
-Status     Building in public · open to collabs
-```
-
-<br>
-
----
-
-<br>
-
-**Tech Stack**
+## 🛠️ TECH STACK
 
 <div align="center">
 
-<img src="https://skillicons.dev/icons?i=cpp,python,ts&theme=light&perline=3" />
+### Core Languages
+<img src="https://skillicons.dev/icons?i=cpp,python,ts&theme=dark&perline=3" height="60"/>
 
-<br><br>
+<br>
 
-<img src="https://skillicons.dev/icons?i=pytorch,tensorflow,sklearn&theme=light&perline=3" />
+### AI · ML · Agents
+<img src="https://skillicons.dev/icons?i=pytorch,tensorflow,sklearn&theme=dark&perline=3" height="60"/>
 
-<br><br>
+<br>
 
-<img src="https://skillicons.dev/icons?i=git,linux,vscode,vercel,jupyter,github&theme=light&perline=6" />
+![LangChain](https://img.shields.io/badge/LangChain-1C3C3C?style=for-the-badge&logo=chainlink&logoColor=00d4ff)
+![OpenAI](https://img.shields.io/badge/OpenAI_API-000000?style=for-the-badge&logo=openai&logoColor=00d4ff)
+![HuggingFace](https://img.shields.io/badge/HuggingFace-FF9D00?style=for-the-badge&logo=huggingface&logoColor=black)
+![RAG](https://img.shields.io/badge/RAG_Pipelines-0d1f3c?style=for-the-badge&logoColor=00d4ff)
+![VectorDB](https://img.shields.io/badge/Vector_DBs-1a1a2e?style=for-the-badge&logoColor=00d4ff)
+
+<br>
+
+### Tools & Infra
+<img src="https://skillicons.dev/icons?i=git,linux,vscode,vercel,github,docker&theme=dark&perline=6" height="60"/>
 
 </div>
 
-<br>
-
-```
-AI / ML     PyTorch  ·  LangChain  ·  OpenAI API  ·  HuggingFace  ·  RAG
-Infra       Linux  ·  Git  ·  VS Code  ·  Vercel  ·  Jupyter
-```
-
-<br>
+<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
 
 ---
 
-<br>
+## 🚀 PROJECTS
 
-**Projects**
-
-<br>
+<div align="center">
 
 <table>
-  <tr>
-    <td width="50%" valign="top">
-      <h4>🧬 medaiii</h4>
-      <p>AI-powered medical intelligence system — applying LLMs to healthcare diagnostics and clinical reasoning.</p>
-      <a href="https://github.com/AnshXGrind/medaiii">
-        <img src="https://img.shields.io/badge/view_repo-111111?style=flat-square&logo=github&logoColor=white" />
-      </a>
-      &nbsp;
-      <img src="https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white" />
-      <img src="https://img.shields.io/badge/LLM-412991?style=flat-square&logo=openai&logoColor=white" />
-    </td>
-    <td width="50%" valign="top">
-      <h4>⚡ lexiscan</h4>
-      <p>Lexical analysis and scanner engine — parsing at the compiler level. Built from scratch in TypeScript.</p>
-      <a href="https://github.com/AnshXGrind/lexiscan">
-        <img src="https://img.shields.io/badge/view_repo-111111?style=flat-square&logo=github&logoColor=white" />
-      </a>
-      &nbsp;
-      <img src="https://img.shields.io/badge/TypeScript-3178C6?style=flat-square&logo=typescript&logoColor=white" />
-    </td>
-  </tr>
-  <tr>
-    <td width="50%" valign="top">
-      <h4>📊 data-cleaning-pipeline</h4>
-      <p>End-to-end preprocessing pipeline producing clean, ML-ready datasets from raw messy inputs.</p>
-      <a href="https://github.com/AnshXGrind/python-data-cleaning-project">
-        <img src="https://img.shields.io/badge/view_repo-111111?style=flat-square&logo=github&logoColor=white" />
-      </a>
-      &nbsp;
-      <img src="https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white" />
-      <img src="https://img.shields.io/badge/Pandas-150458?style=flat-square&logo=pandas&logoColor=white" />
-    </td>
-    <td width="50%" valign="top">
-      <h4>🔧 more coming...</h4>
-      <p>New projects being built in stealth. Follow along to see what ships next.</p>
-      <img src="https://img.shields.io/badge/status-building-f0a500?style=flat-square" />
-    </td>
-  </tr>
+<tr>
+<td width="50%" align="center">
+
+### 🧬 medaiii
+AI-powered medical intelligence — applying LLMs and clinical reasoning to healthcare diagnostics.
+
+[![Repo](https://img.shields.io/badge/View_Repo-0d1f3c?style=for-the-badge&logo=github&logoColor=00d4ff)](https://github.com/AnshXGrind/medaiii)
+![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white)
+![LLM](https://img.shields.io/badge/LLM-000?style=flat-square&logo=openai&logoColor=00d4ff)
+
+</td>
+<td width="50%" align="center">
+
+### ⚡ lexiscan
+Lexical analysis and scanner engine built at the compiler level — from scratch.
+
+[![Repo](https://img.shields.io/badge/View_Repo-0d1f3c?style=for-the-badge&logo=github&logoColor=00d4ff)](https://github.com/AnshXGrind/lexiscan)
+![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=flat-square&logo=typescript&logoColor=white)
+
+</td>
+</tr>
+<tr>
+<td width="50%" align="center">
+
+### 📊 data-pipeline
+End-to-end preprocessing pipeline producing ML-ready datasets from raw messy inputs.
+
+[![Repo](https://img.shields.io/badge/View_Repo-0d1f3c?style=for-the-badge&logo=github&logoColor=00d4ff)](https://github.com/AnshXGrind/python-data-cleaning-project)
+![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white)
+![Pandas](https://img.shields.io/badge/Pandas-150458?style=flat-square&logo=pandas&logoColor=white)
+
+</td>
+<td width="50%" align="center">
+
+### 🔧 stealth project
+Something bigger is being built. Follow along to see what ships next.
+
+![Status](https://img.shields.io/badge/STATUS-BUILDING-00d4ff?style=for-the-badge)
+
+</td>
+</tr>
 </table>
 
-<br>
+</div>
+
+<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
 
 ---
 
-<br>
-
-**Stats**
+## 📊 STATS
 
 <div align="center">
 
-<img src="https://github-readme-stats.vercel.app/api?username=AnshXGrind&show_icons=true&hide_border=true&bg_color=fafafa&title_color=111111&text_color=555555&icon_color=444444&hide_rank=false&include_all_commits=true&count_private=true" height="160" />
-&nbsp;&nbsp;
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=AnshXGrind&layout=compact&hide_border=true&bg_color=fafafa&title_color=111111&text_color=555555&langs_count=6" height="160" />
+<img src="https://github-readme-stats.vercel.app/api?username=AnshXGrind&show_icons=true&hide_border=true&theme=tokyonight&bg_color=0d1117&title_color=00d4ff&text_color=a0b4c8&icon_color=00d4ff&ring_color=00d4ff&include_all_commits=true&count_private=true" width="49%" />
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=AnshXGrind&layout=compact&hide_border=true&theme=tokyonight&bg_color=0d1117&title_color=00d4ff&text_color=a0b4c8&langs_count=8" width="49%" />
 
-<br><br>
+<br>
 
-<img src="https://streak-stats.demolab.com?user=AnshXGrind&hide_border=true&background=fafafa&stroke=eeeeee&ring=111111&fire=444444&currStreakLabel=111111&sideLabels=777777&dates=999999&currStreakNum=111111&sideNums=111111" width="96%" />
+<img src="https://streak-stats.demolab.com?user=AnshXGrind&theme=tokyonight&hide_border=true&background=0d1117&ring=00d4ff&fire=4a9eff&currStreakLabel=00d4ff&sideLabels=a0b4c8&dates=5a7a9a&currStreakNum=00d4ff&sideNums=a0b4c8&stroke=0d1f3c" width="98%" />
+
+</div>
+
+---
+
+## 🏆 TROPHIES
+
+<div align="center">
+
+[![trophy](https://github-profile-trophy.vercel.app/?username=AnshXGrind&theme=tokyonight&no-frame=true&no-bg=true&margin-w=8&rank=SECRET,SSS,SS,S,AAA,AA,A,B)](https://github.com/ryo-ma/github-profile-trophy)
+
+</div>
+
+<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
+
+---
+
+## 📈 ACTIVITY
+
+<div align="center">
+
+[![Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=AnshXGrind&bg_color=0d1117&color=00d4ff&line=4a9eff&point=00d4ff&area=true&area_color=0d1f3c&hide_border=true&radius=6)](https://github.com/ashutosh00710/github-readme-activity-graph)
+
+</div>
+
+---
+
+## 🐍 CONTRIBUTION SNAKE
+
+<div align="center">
+
+![Snake animation](https://raw.githubusercontent.com/AnshXGrind/AnshXGrind/output/github-contribution-grid-snake-dark.svg)
+
+</div>
+
+<details>
+<summary>⚙️ Setup the snake animation (click to expand)</summary>
+
+Create `.github/workflows/snake.yml` in your profile repo:
+
+```yaml
+name: Generate Snake
+on:
+  schedule: [{ cron: "0 0 * * *" }]
+  workflow_dispatch:
+jobs:
+  generate:
+    runs-on: ubuntu-latest
+    steps:
+      - uses: Platane/snk/svg-only@v3
+        with:
+          github_user_name: AnshXGrind
+          outputs: |
+            dist/github-contribution-grid-snake-dark.svg?palette=github-dark
+      - uses: crazy-max/ghaction-github-pages@v3.1.0
+        with:
+          target_branch: output
+          build_dir: dist
+        env:
+          GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
+```
+
+</details>
+
+<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
+
+---
+
+## 🔗 CONNECT
+
+<div align="center">
+
+[![GitHub](https://img.shields.io/badge/GitHub-AnshXGrind-0d1117?style=for-the-badge&logo=github&logoColor=00d4ff)](https://github.com/AnshXGrind)
+[![Codeforces](https://img.shields.io/badge/Codeforces-AnshXGrind-0d1117?style=for-the-badge&logo=codeforces&logoColor=00d4ff)](https://codeforces.com/profile/AnshXGrind)
+[![LeetCode](https://img.shields.io/badge/LeetCode-AnshXGrind-0d1117?style=for-the-badge&logo=leetcode&logoColor=FFA116)](https://leetcode.com/AnshXGrind)
+
+<br>
+
+![Visitors](https://komarev.com/ghpvc/?username=AnshXGrind&style=for-the-badge&color=0d1f3c&label=PROFILE+VIEWS&abbreviated=true)
 
 </div>
 
 <br>
 
----
-
-<br>
-
-**Activity**
-
 <div align="center">
 
-[![Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=AnshXGrind&bg_color=fafafa&color=444444&line=222222&point=111111&area=true&area_color=e8e8e8&hide_border=true&radius=4)](https://github.com/ashutosh00710/github-readme-activity-graph)
+```
+◈━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━◈
+        do the work  ·  trust the process  ·  ship
+◈━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━◈
+```
 
 </div>
 
-<br>
-
----
-
-<br>
-
-**Competitive Programming**
-
-<div align="center">
-
-[![Codeforces](https://img.shields.io/badge/Codeforces-AnshXGrind-1F8ACB?style=flat-square&logo=codeforces&logoColor=white)](https://codeforces.com/profile/AnshXGrind)
-&nbsp;
-[![LeetCode](https://img.shields.io/badge/LeetCode-AnshXGrind-FFA116?style=flat-square&logo=leetcode&logoColor=white)](https://leetcode.com/AnshXGrind)
-
-</div>
-
-<br>
-
----
-
-<br>
-
-<div align="center">
-
-[![GitHub](https://img.shields.io/badge/github.com%2FAnshXGrind-111111?style=flat-square&logo=github&logoColor=white)](https://github.com/AnshXGrind)
-&nbsp;&nbsp;
-![Profile Views](https://komarev.com/ghpvc/?username=AnshXGrind&style=flat-square&color=111111&label=profile+views)
-
-<br><br>
-
-<sub>do the work · trust the process · ship</sub>
-
-</div>
-
-<br>
-
-![footer](https://capsule-render.vercel.app/api?type=soft&color=f5f5f5&height=60&section=footer)
+![footer](https://capsule-render.vercel.app/api?type=venom&color=0:0a0a0f,40:0d1f3c,70:061428,100:0a0a0f&height=120&section=footer&stroke=00d4ff&strokeWidth=1)
