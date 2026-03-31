@@ -182,7 +182,6 @@ Systems focused on water resource orchestration and monitoring.
 ## ⚡ LATEST ACTIVITY
 
 <!--START_SECTION:activity-->
-*(GitHub recent activity feed will update here automatically)*
 <!--END_SECTION:activity-->
 
 <img src=".github/assets/animated-divider.svg" width="100%">
@@ -192,7 +191,6 @@ Systems focused on water resource orchestration and monitoring.
 <div align="center">
 
 <!-- BLOG-POST-LIST:START -->
-*(If you write on Medium/Dev.to, your latest articles will populate here)*
 <!-- BLOG-POST-LIST:END -->
 
 </div>
@@ -204,8 +202,6 @@ Systems focused on water resource orchestration and monitoring.
 <div align="center">
 
 ![Snake animation](https://raw.githubusercontent.com/AnshXGrind/AnshXGrind/output/github-contribution-grid-snake-dark.svg)
-
-*(Note: The snake animation will appear here after the GitHub Action runs for the first time)*
 
 </div>
 
