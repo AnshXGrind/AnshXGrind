@@ -1,12 +1,12 @@
 ﻿<div align="center">
 
-![header](https://capsule-render.vercel.app/api?type=venom&color=0:0a0a0f,40:2e1065,70:061428,100:0a0a0f&height=280&section=header&text=SAKSHAM&fontSize=90&fontColor=a855f7&fontAlignY=45&desc=ML%20Engineer%20Â·%20AI%20Agent%20Architect%20Â·%20Builder&descSize=15&descColor=c084fc&descAlignY=65&animation=fadeIn&stroke=a855f7&strokeWidth=2)
+![header](https://capsule-render.vercel.app/api?type=venom&color=0:0a0a0f,40:2e1065,70:061428,100:0a0a0f&height=280&section=header&text=SAKSHAM&fontSize=90&fontColor=a855f7&fontAlignY=45&desc=ML%20Engineer%20·%20AI%20Agent%20Architect%20·%20Builder&descSize=15&descColor=c084fc&descAlignY=65&animation=fadeIn&stroke=a855f7&strokeWidth=2)
 
 </div>
 
 <div align="center">
 
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=600&size=18&duration=2500&pause=900&color=a855f7&center=true&vCenter=true&width=600&lines=âš¡+Building+Autonomous+AI+Agents;ðŸ§ +LLMs+Â·+RAG+Â·+Multi-Agent+Systems;ðŸ¤–+Turning+Ideas+into+Intelligent+Systems;ðŸ’»+C%2B%2B+DSA+Â·+Codeforces+Â·+NeetCode;ðŸš€+Shipping+in+Public+Â·+Delhi%2C+India)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=600&size=18&duration=2500&pause=900&color=a855f7&center=true&vCenter=true&width=600&lines=⚡+Building+Autonomous+AI+Agents;🧠+LLMs+·+RAG+·+Multi-Agent+Systems;🤖+Turning+Ideas+into+Intelligent+Systems;💻+C%2B%2B+DSA+·+Codeforces+·+NeetCode;🚀+Shipping+in+Public+·+Delhi%2C+India)](https://git.io/typing-svg)
 
 </div>
 
@@ -15,9 +15,9 @@
 <div align="center">
 
 ```
-â—ˆâ”â”â”â”â”â”â”â”â”â”â”â”â”â”â”â”â”â”â”â”â”â”â”â”â”â”â”â”â”â”â”â”â”â”â”â”â”â”â”â”â”â”â”â”â”â”â”â”â”â”â”â”â”â”â”â”â”â”â”â”â”â”â”â”â—ˆ
-  SYSTEM ONLINE  Â·  AI AGENT STACK INITIALIZED  Â·  BUILDING...
-â—ˆâ”â”â”â”â”â”â”â”â”â”â”â”â”â”â”â”â”â”â”â”â”â”â”â”â”â”â”â”â”â”â”â”â”â”â”â”â”â”â”â”â”â”â”â”â”â”â”â”â”â”â”â”â”â”â”â”â”â”â”â”â”â”â”â”â—ˆ
+◈━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━◈
+  SYSTEM ONLINE  ·  AI AGENT STACK INITIALIZED  ·  BUILDING...
+◈━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━◈
 ```
 
 </div>
@@ -25,31 +25,31 @@
 
 <img src=".github/assets/animated-divider.svg" width="100%">
 
-## âš¡ ABOUT
+## ⚡ ABOUT
 
 ```python
 class Saksham:
     name       = "Saksham"
     alias      = "AnshXGrind"
-    base       = "Delhi, India  Â·  from Kurukshetra"
+    base       = "Delhi, India  ·  from Kurukshetra"
 
     focus      = [
         "Autonomous AI Agents",
         "Large Language Models (LLMs)",
         "RAG Pipelines & Vector Search",
         "Multi-Agent Orchestration",
-        "DSA in C++ Â· Competitive Programming",
+        "DSA in C++ · Competitive Programming",
     ]
 
     currently  = "Building agent systems that reason & act"
-    open_to    = "Collabs Â· Research Â· Open Source"
+    open_to    = "Collabs · Research · Open Source"
     philosophy = "Ship fast. Learn. Iterate. Repeat."
 ```
 
 <img src=".github/assets/animated-divider.svg" width="100%">
 
 
-## ðŸ› ï¸ TECH STACK
+## 🛠️ TECH STACK
 
 <div align="center">
 
@@ -58,7 +58,7 @@ class Saksham:
 
 <br>
 
-### AI Â· ML Â· Agents
+### AI · ML · Agents
 <img src="https://skillicons.dev/icons?i=pytorch,tensorflow,sklearn,py&theme=dark&perline=4" height="60"/>
 
 <br>
@@ -79,7 +79,7 @@ class Saksham:
 <img src=".github/assets/animated-divider.svg" width="100%">
 
 
-## ðŸš€ PROJECTS
+## 🚀 PROJECTS
 
 <div align="center">
 
@@ -149,7 +149,7 @@ Systems focused on water resource orchestration and monitoring.
 <img src=".github/assets/animated-divider.svg" width="100%">
 
 
-## ðŸ“Š STATS
+## 📊 STATS
 
 <div align="center">
 
@@ -163,7 +163,7 @@ Systems focused on water resource orchestration and monitoring.
 </div>
 
 
-## ðŸ† TROPHIES
+## 🏆 TROPHIES
 
 <div align="center">
 
@@ -174,7 +174,7 @@ Systems focused on water resource orchestration and monitoring.
 <img src=".github/assets/animated-divider.svg" width="100%">
 
 
-## ðŸ“ˆ ACTIVITY
+## 📈 ACTIVITY
 
 <div align="center">
 
@@ -183,7 +183,7 @@ Systems focused on water resource orchestration and monitoring.
 </div>
 
 
-## â±ï¸ WEEKLY DEVELOPMENT STATS
+## ⏱️ WEEKLY DEVELOPMENT STATS
 
 <div align="center">
 
@@ -195,7 +195,7 @@ Systems focused on water resource orchestration and monitoring.
 
 <img src=".github/assets/animated-divider.svg" width="100%">
 
-## âš¡ LATEST ACTIVITY
+## ⚡ LATEST ACTIVITY
 
 <!--START_SECTION:activity-->
 *(GitHub recent activity feed will update here automatically)*
@@ -203,7 +203,7 @@ Systems focused on water resource orchestration and monitoring.
 
 <img src=".github/assets/animated-divider.svg" width="100%">
 
-## âœï¸ LATEST ARTICLES
+## ✍️ LATEST ARTICLES
 
 <div align="center">
 
@@ -215,7 +215,7 @@ Systems focused on water resource orchestration and monitoring.
 
 <img src=".github/assets/animated-divider.svg" width="100%">
 
-## ðŸ CONTRIBUTION SNAKE
+## 🐍 CONTRIBUTION SNAKE
 
 <div align="center">
 
@@ -227,7 +227,7 @@ Systems focused on water resource orchestration and monitoring.
 
 <img src=".github/assets/animated-divider.svg" width="100%">
 
-## ðŸŽ§ NOW PLAYING (SPOTIFY)
+## 🎧 NOW PLAYING (SPOTIFY)
 
 <div align="center">
 
@@ -243,7 +243,7 @@ To enable your live Spotify status, replace "YOUR_UID_HERE" in the URLs below wi
 
 <img src=".github/assets/animated-divider.svg" width="100%">
 
-## ðŸ”— CONNECT
+## 🔗 CONNECT
 
 <div align="center">
 
@@ -264,9 +264,9 @@ To enable your live Spotify status, replace "YOUR_UID_HERE" in the URLs below wi
 <div align="center">
 
 ```
-â—ˆâ”â”â”â”â”â”â”â”â”â”â”â”â”â”â”â”â”â”â”â”â”â”â”â”â”â”â”â”â”â”â”â”â”â”â”â”â”â”â”â”â”â”â”â”â”â”â”â”â”â”â”â”â”â”â”â”â”â”â”â”â”â”â”â”â—ˆ
-        do the work  Â·  trust the process  Â·  ship
-â—ˆâ”â”â”â”â”â”â”â”â”â”â”â”â”â”â”â”â”â”â”â”â”â”â”â”â”â”â”â”â”â”â”â”â”â”â”â”â”â”â”â”â”â”â”â”â”â”â”â”â”â”â”â”â”â”â”â”â”â”â”â”â”â”â”â”â—ˆ
+◈━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━◈
+        do the work  ·  trust the process  ·  ship
+◈━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━◈
 ```
 
 </div>
