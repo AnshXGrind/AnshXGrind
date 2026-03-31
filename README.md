@@ -24,7 +24,7 @@
 
 ---
 
-![Divider](https://capsule-render.vercel.app/api?type=rect&color=a855f7&height=2)
+<img src=".github/assets/animated-divider.svg" width="100%">
 
 ## ⚡ ABOUT
 
@@ -47,7 +47,7 @@ class Saksham:
     philosophy = "Ship fast. Learn. Iterate. Repeat."
 ```
 
-![Divider](https://capsule-render.vercel.app/api?type=rect&color=a855f7&height=2)
+<img src=".github/assets/animated-divider.svg" width="100%">
 
 ---
 
@@ -78,7 +78,7 @@ class Saksham:
 
 </div>
 
-![Divider](https://capsule-render.vercel.app/api?type=rect&color=a855f7&height=2)
+<img src=".github/assets/animated-divider.svg" width="100%">
 
 ---
 
@@ -93,7 +93,7 @@ class Saksham:
 
 </div>
 
-![Divider](https://capsule-render.vercel.app/api?type=rect&color=a855f7&height=2)
+<img src=".github/assets/animated-divider.svg" width="100%">
 
 ---
 
@@ -120,7 +120,7 @@ class Saksham:
 
 </div>
 
-![Divider](https://capsule-render.vercel.app/api?type=rect&color=a855f7&height=2)
+<img src=".github/assets/animated-divider.svg" width="100%">
 
 ---
 
@@ -144,7 +144,7 @@ class Saksham:
 
 </div>
 
-![Divider](https://capsule-render.vercel.app/api?type=rect&color=a855f7&height=2)
+<img src=".github/assets/animated-divider.svg" width="100%">
 
 ## ⚡ LATEST ACTIVITY
 
@@ -152,7 +152,7 @@ class Saksham:
 *(GitHub recent activity feed will update here automatically)*
 <!--END_SECTION:activity-->
 
-![Divider](https://capsule-render.vercel.app/api?type=rect&color=a855f7&height=2)
+<img src=".github/assets/animated-divider.svg" width="100%">
 
 ## ✍️ LATEST ARTICLES
 
@@ -164,7 +164,7 @@ class Saksham:
 
 </div>
 
-![Divider](https://capsule-render.vercel.app/api?type=rect&color=a855f7&height=2)
+<img src=".github/assets/animated-divider.svg" width="100%">
 
 ## 🐍 CONTRIBUTION SNAKE
 
@@ -176,7 +176,7 @@ class Saksham:
 
 </div>
 
-![Divider](https://capsule-render.vercel.app/api?type=rect&color=a855f7&height=2)
+<img src=".github/assets/animated-divider.svg" width="100%">
 
 ## 🎧 NOW PLAYING (SPOTIFY)
 
@@ -192,7 +192,7 @@ To enable your live Spotify status, replace "YOUR_UID_HERE" in the URLs below wi
 
 </div>
 
-![Divider](https://capsule-render.vercel.app/api?type=rect&color=a855f7&height=2)
+<img src=".github/assets/animated-divider.svg" width="100%">
 
 ## 🔗 CONNECT
 
@@ -223,4 +223,6 @@ To enable your live Spotify status, replace "YOUR_UID_HERE" in the URLs below wi
 </div>
 
 ![footer](https://capsule-render.vercel.app/api?type=venom&color=0:0a0a0f,40:2e1065,70:061428,100:0a0a0f&height=120&section=footer&stroke=a855f7&strokeWidth=1)
+
+
 
