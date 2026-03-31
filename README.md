@@ -24,7 +24,7 @@
 
 ---
 
-<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
+![Divider](https://capsule-render.vercel.app/api?type=rect&color=a855f7&height=2)
 
 ## ⚡ ABOUT
 
@@ -47,7 +47,7 @@ class Saksham:
     philosophy = "Ship fast. Learn. Iterate. Repeat."
 ```
 
-<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
+![Divider](https://capsule-render.vercel.app/api?type=rect&color=a855f7&height=2)
 
 ---
 
@@ -78,7 +78,7 @@ class Saksham:
 
 </div>
 
-<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
+![Divider](https://capsule-render.vercel.app/api?type=rect&color=a855f7&height=2)
 
 ---
 
@@ -86,53 +86,14 @@ class Saksham:
 
 <div align="center">
 
-<table>
-<tr>
-<td width="50%" align="center">
+[![medaiii](https://github-readme-stats.vercel.app/api/pin/?username=AnshXGrind&repo=medaiii&theme=radical&bg_color=0d1117&border_color=2e1065&title_color=a855f7&text_color=e9d5ff&icon_color=a855f7)](https://github.com/AnshXGrind/medaiii)
+[![lexiscan](https://github-readme-stats.vercel.app/api/pin/?username=AnshXGrind&repo=lexiscan&theme=radical&bg_color=0d1117&border_color=2e1065&title_color=a855f7&text_color=e9d5ff&icon_color=a855f7)](https://github.com/AnshXGrind/lexiscan)
 
-### 🧬 medaiii
-AI-powered medical intelligence — applying LLMs and clinical reasoning to healthcare diagnostics.
-
-[![Repo](https://img.shields.io/badge/View_Repo-2e1065?style=for-the-badge&logo=github&logoColor=a855f7)](https://github.com/AnshXGrind/medaiii)
-![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white)
-![LLM](https://img.shields.io/badge/LLM-000?style=flat-square&logo=openai&logoColor=a855f7)
-
-</td>
-<td width="50%" align="center">
-
-### ⚡ lexiscan
-Lexical analysis and scanner engine built at the compiler level — from scratch.
-
-[![Repo](https://img.shields.io/badge/View_Repo-2e1065?style=for-the-badge&logo=github&logoColor=a855f7)](https://github.com/AnshXGrind/lexiscan)
-![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=flat-square&logo=typescript&logoColor=white)
-
-</td>
-</tr>
-<tr>
-<td width="50%" align="center">
-
-### 📊 data-pipeline
-End-to-end preprocessing pipeline producing ML-ready datasets from raw messy inputs.
-
-[![Repo](https://img.shields.io/badge/View_Repo-2e1065?style=for-the-badge&logo=github&logoColor=a855f7)](https://github.com/AnshXGrind/python-data-cleaning-project)
-![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white)
-![Pandas](https://img.shields.io/badge/Pandas-150458?style=flat-square&logo=pandas&logoColor=white)
-
-</td>
-<td width="50%" align="center">
-
-### 🔧 stealth project
-Something bigger is being built. Follow along to see what ships next.
-
-![Status](https://img.shields.io/badge/STATUS-BUILDING-a855f7?style=for-the-badge)
-
-</td>
-</tr>
-</table>
+[![data-pipeline](https://github-readme-stats.vercel.app/api/pin/?username=AnshXGrind&repo=python-data-cleaning-project&theme=radical&bg_color=0d1117&border_color=2e1065&title_color=a855f7&text_color=e9d5ff&icon_color=a855f7)](https://github.com/AnshXGrind/python-data-cleaning-project)
 
 </div>
 
-<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
+![Divider](https://capsule-render.vercel.app/api?type=rect&color=a855f7&height=2)
 
 ---
 
@@ -159,7 +120,7 @@ Something bigger is being built. Follow along to see what ships next.
 
 </div>
 
-<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
+![Divider](https://capsule-render.vercel.app/api?type=rect&color=a855f7&height=2)
 
 ---
 
@@ -173,6 +134,38 @@ Something bigger is being built. Follow along to see what ships next.
 
 ---
 
+## ⏱️ WEEKLY DEVELOPMENT STATS
+
+<div align="center">
+
+<!--START_SECTION:waka-->
+*(WakaTime stats will appear here when configured!)*
+<!--END_SECTION:waka-->
+
+</div>
+
+![Divider](https://capsule-render.vercel.app/api?type=rect&color=a855f7&height=2)
+
+## ⚡ LATEST ACTIVITY
+
+<!--START_SECTION:activity-->
+*(GitHub recent activity feed will update here automatically)*
+<!--END_SECTION:activity-->
+
+![Divider](https://capsule-render.vercel.app/api?type=rect&color=a855f7&height=2)
+
+## ✍️ LATEST ARTICLES
+
+<div align="center">
+
+<!-- BLOG-POST-LIST:START -->
+*(If you write on Medium/Dev.to, your latest articles will populate here)*
+<!-- BLOG-POST-LIST:END -->
+
+</div>
+
+![Divider](https://capsule-render.vercel.app/api?type=rect&color=a855f7&height=2)
+
 ## 🐍 CONTRIBUTION SNAKE
 
 <div align="center">
@@ -183,9 +176,23 @@ Something bigger is being built. Follow along to see what ships next.
 
 </div>
 
-<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
+![Divider](https://capsule-render.vercel.app/api?type=rect&color=a855f7&height=2)
 
----
+## 🎧 NOW PLAYING (SPOTIFY)
+
+<div align="center">
+
+<!-- 
+To enable your live Spotify status, replace "YOUR_UID_HERE" in the URLs below with the UID you get from: https://spotify-github-profile.vercel.app/ 
+-->
+
+<a href="https://spotify-github-profile.vercel.app/api/view?uid=YOUR_UID_HERE&cover_image=true&theme=default&show_offline=true&background_color=0d1117&interchange=false&bar_color_cover=false&bar_color=a855f7">
+  <img src="https://spotify-github-profile.vercel.app/api/view?uid=YOUR_UID_HERE&cover_image=true&theme=default&show_offline=true&background_color=0d1117&interchange=false&bar_color_cover=false&bar_color=a855f7" alt="Spotify Now Playing" />
+</a>
+
+</div>
+
+![Divider](https://capsule-render.vercel.app/api?type=rect&color=a855f7&height=2)
 
 ## 🔗 CONNECT
 
@@ -216,3 +223,4 @@ Something bigger is being built. Follow along to see what ships next.
 </div>
 
 ![footer](https://capsule-render.vercel.app/api?type=venom&color=0:0a0a0f,40:2e1065,70:061428,100:0a0a0f&height=120&section=footer&stroke=a855f7&strokeWidth=1)
+
