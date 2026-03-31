@@ -163,7 +163,7 @@ Systems focused on water resource orchestration and monitoring.
 
 <div align="center">
 
-[![trophy](https://github-profile-trophy.vercel.app/?username=AnshXGrind&theme=radical&no-frame=true&no-bg=true&margin-w=8&rank=SECRET,SSS,SS,S,AAA,AA,A,B)](https://github.com/ryo-ma/github-profile-trophy)
+![Trophies](.github/assets/trophies.svg)
 
 </div>
 

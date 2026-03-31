@@ -1,0 +1,6 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="800" height="150" viewBox="0 0 800 150">
+  <rect width="800" height="150" fill="#0d1117" />
+  <text x="400" y="75" font-family="Arial" font-size="20" fill="#a855f7" text-anchor="middle" dominant-baseline="middle">
+    Trophies API is temporarily down. GitHub Action will update this graphic automatically when it restores!
+  </text>
+</svg>
