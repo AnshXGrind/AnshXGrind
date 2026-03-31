@@ -23,6 +23,7 @@
 
 ## ⚡ ABOUT
 
+```python
 class Saksham:
     name       = "Saksham"
     alias      = "AnshXGrind"
@@ -178,18 +179,6 @@ Systems focused on water resource orchestration and monitoring.
 </div>
 
 
-## ⏱️ WEEKLY DEVELOPMENT STATS
-
-<div align="center">
-
-<!--START_SECTION:waka-->
-*(WakaTime stats will appear here when configured!)*
-<!--END_SECTION:waka-->
-
-</div>
-
-<img src=".github/assets/animated-divider.svg" width="100%">
-
 ## ⚡ LATEST ACTIVITY
 
 <!--START_SECTION:activity-->
@@ -217,22 +206,6 @@ Systems focused on water resource orchestration and monitoring.
 ![Snake animation](https://raw.githubusercontent.com/AnshXGrind/AnshXGrind/output/github-contribution-grid-snake-dark.svg)
 
 *(Note: The snake animation will appear here after the GitHub Action runs for the first time)*
-
-</div>
-
-<img src=".github/assets/animated-divider.svg" width="100%">
-
-## 🎧 NOW PLAYING (SPOTIFY)
-
-<div align="center">
-
-<!-- 
-To enable your live Spotify status, replace "YOUR_UID_HERE" in the URLs below with the UID you get from: https://spotify-github-profile.vercel.app/ 
--->
-
-<a href="https://spotify-github-profile.vercel.app/api/view?uid=YOUR_UID_HERE&cover_image=true&theme=default&show_offline=true&background_color=0d1117&interchange=false&bar_color_cover=false&bar_color=a855f7">
-  <img src="https://spotify-github-profile.vercel.app/api/view?uid=YOUR_UID_HERE&cover_image=true&theme=default&show_offline=true&background_color=0d1117&interchange=false&bar_color_cover=false&bar_color=a855f7" alt="Spotify Now Playing" />
-</a>
 
 </div>
 
