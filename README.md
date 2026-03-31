@@ -1,12 +1,12 @@
-<div align="center">
+﻿<div align="center">
 
-![header](https://capsule-render.vercel.app/api?type=venom&color=0:0a0a0f,40:2e1065,70:061428,100:0a0a0f&height=280&section=header&text=SAKSHAM&fontSize=90&fontColor=a855f7&fontAlignY=45&desc=ML%20Engineer%20·%20AI%20Agent%20Architect%20·%20Builder&descSize=15&descColor=c084fc&descAlignY=65&animation=fadeIn&stroke=a855f7&strokeWidth=2)
+![header](https://capsule-render.vercel.app/api?type=venom&color=0:0a0a0f,40:2e1065,70:061428,100:0a0a0f&height=280&section=header&text=SAKSHAM&fontSize=90&fontColor=a855f7&fontAlignY=45&desc=ML%20Engineer%20Â·%20AI%20Agent%20Architect%20Â·%20Builder&descSize=15&descColor=c084fc&descAlignY=65&animation=fadeIn&stroke=a855f7&strokeWidth=2)
 
 </div>
 
 <div align="center">
 
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=600&size=18&duration=2500&pause=900&color=a855f7&center=true&vCenter=true&width=600&lines=⚡+Building+Autonomous+AI+Agents;🧠+LLMs+·+RAG+·+Multi-Agent+Systems;🤖+Turning+Ideas+into+Intelligent+Systems;💻+C%2B%2B+DSA+·+Codeforces+·+NeetCode;🚀+Shipping+in+Public+·+Delhi%2C+India)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=600&size=18&duration=2500&pause=900&color=a855f7&center=true&vCenter=true&width=600&lines=âš¡+Building+Autonomous+AI+Agents;ðŸ§ +LLMs+Â·+RAG+Â·+Multi-Agent+Systems;ðŸ¤–+Turning+Ideas+into+Intelligent+Systems;ðŸ’»+C%2B%2B+DSA+Â·+Codeforces+Â·+NeetCode;ðŸš€+Shipping+in+Public+Â·+Delhi%2C+India)](https://git.io/typing-svg)
 
 </div>
 
@@ -15,52 +15,50 @@
 <div align="center">
 
 ```
-◈━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━◈
-  SYSTEM ONLINE  ·  AI AGENT STACK INITIALIZED  ·  BUILDING...
-◈━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━◈
+â—ˆâ”â”â”â”â”â”â”â”â”â”â”â”â”â”â”â”â”â”â”â”â”â”â”â”â”â”â”â”â”â”â”â”â”â”â”â”â”â”â”â”â”â”â”â”â”â”â”â”â”â”â”â”â”â”â”â”â”â”â”â”â”â”â”â”â—ˆ
+  SYSTEM ONLINE  Â·  AI AGENT STACK INITIALIZED  Â·  BUILDING...
+â—ˆâ”â”â”â”â”â”â”â”â”â”â”â”â”â”â”â”â”â”â”â”â”â”â”â”â”â”â”â”â”â”â”â”â”â”â”â”â”â”â”â”â”â”â”â”â”â”â”â”â”â”â”â”â”â”â”â”â”â”â”â”â”â”â”â”â—ˆ
 ```
 
 </div>
 
----
 
 <img src=".github/assets/animated-divider.svg" width="100%">
 
-## ⚡ ABOUT
+## âš¡ ABOUT
 
 ```python
 class Saksham:
     name       = "Saksham"
     alias      = "AnshXGrind"
-    base       = "Delhi, India  ·  from Kurukshetra"
+    base       = "Delhi, India  Â·  from Kurukshetra"
 
     focus      = [
         "Autonomous AI Agents",
         "Large Language Models (LLMs)",
         "RAG Pipelines & Vector Search",
         "Multi-Agent Orchestration",
-        "DSA in C++ · Competitive Programming",
+        "DSA in C++ Â· Competitive Programming",
     ]
 
     currently  = "Building agent systems that reason & act"
-    open_to    = "Collabs · Research · Open Source"
+    open_to    = "Collabs Â· Research Â· Open Source"
     philosophy = "Ship fast. Learn. Iterate. Repeat."
 ```
 
 <img src=".github/assets/animated-divider.svg" width="100%">
 
----
 
-## 🛠️ TECH STACK
+## ðŸ› ï¸ TECH STACK
 
 <div align="center">
 
 ### Core Languages
-<img src="https://skillicons.dev/icons?i=cpp,python,ts,bash,c&theme=dark&perline=5" height="60"/>
+<img src="https://skillicons.dev/icons?i=python,cpp,ts,js,html,css,bash,c&theme=dark&perline=8" height="60"/>
 
 <br>
 
-### AI · ML · Agents
+### AI Â· ML Â· Agents
 <img src="https://skillicons.dev/icons?i=pytorch,tensorflow,sklearn,py&theme=dark&perline=4" height="60"/>
 
 <br>
@@ -80,24 +78,78 @@ class Saksham:
 
 <img src=".github/assets/animated-divider.svg" width="100%">
 
----
 
-## 🚀 PROJECTS
+## ðŸš€ PROJECTS
 
 <div align="center">
 
-[![medaiii](https://github-readme-stats.vercel.app/api/pin/?username=AnshXGrind&repo=medaiii&theme=radical&bg_color=0d1117&border_color=2e1065&title_color=a855f7&text_color=e9d5ff&icon_color=a855f7)](https://github.com/AnshXGrind/medaiii)
-[![lexiscan](https://github-readme-stats.vercel.app/api/pin/?username=AnshXGrind&repo=lexiscan&theme=radical&bg_color=0d1117&border_color=2e1065&title_color=a855f7&text_color=e9d5ff&icon_color=a855f7)](https://github.com/AnshXGrind/lexiscan)
+<table>
+<tr>
+<td width="33%" align="center">
 
-[![data-pipeline](https://github-readme-stats.vercel.app/api/pin/?username=AnshXGrind&repo=python-data-cleaning-project&theme=radical&bg_color=0d1117&border_color=2e1065&title_color=a855f7&text_color=e9d5ff&icon_color=a855f7)](https://github.com/AnshXGrind/python-data-cleaning-project)
+### 🧬 medaiii
+AI-powered medical intelligence — applying LLMs to healthcare diagnostics.
+
+[![Repo](https://img.shields.io/badge/View_Repo-2e1065?style=for-the-badge&logo=github&logoColor=a855f7)](https://github.com/AnshXGrind/medaiii)
+![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white)
+
+</td>
+<td width="33%" align="center">
+
+### ⚡ lexiscan
+Lexical analysis scanner engine built at the compiler level.
+
+[![Repo](https://img.shields.io/badge/View_Repo-2e1065?style=for-the-badge&logo=github&logoColor=a855f7)](https://github.com/AnshXGrind/lexiscan)
+![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=flat-square&logo=typescript&logoColor=white)
+
+</td>
+<td width="33%" align="center">
+
+### ⚖️ Lawmind
+AI-assisted legal workspace exploring regulatory compliance and queries.
+
+[![Repo](https://img.shields.io/badge/View_Repo-2e1065?style=for-the-badge&logo=github&logoColor=a855f7)](https://github.com/AnshXGrind/Lawmind)
+![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white)
+
+</td>
+</tr>
+<tr>
+<td width="33%" align="center">
+
+### 📊 data-pipeline
+End-to-end preprocessing pipeline producing ML-ready datasets.
+
+[![Repo](https://img.shields.io/badge/View_Repo-2e1065?style=for-the-badge&logo=github&logoColor=a855f7)](https://github.com/AnshXGrind/python-data-cleaning-project)
+![Jupyter](https://img.shields.io/badge/Jupyter-F37626?style=flat-square&logo=jupyter&logoColor=white)
+
+</td>
+<td width="33%" align="center">
+
+### 🚀 Launcify
+An advanced deployment dashboard and orchestration web application.
+
+[![Repo](https://img.shields.io/badge/View_Repo-2e1065?style=for-the-badge&logo=github&logoColor=a855f7)](https://github.com/AnshXGrind/Launcify_new)
+![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=flat-square&logo=typescript&logoColor=white)
+
+</td>
+<td width="33%" align="center">
+
+### 💧 Jaljeevan
+Systems focused on water resource orchestration and monitoring.
+
+[![Repo](https://img.shields.io/badge/View_Repo-2e1065?style=for-the-badge&logo=github&logoColor=a855f7)](https://github.com/AnshXGrind/Jaljeevan)
+![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white)
+
+</td>
+</tr>
+</table>
 
 </div>
 
 <img src=".github/assets/animated-divider.svg" width="100%">
 
----
 
-## 📊 STATS
+## ðŸ“Š STATS
 
 <div align="center">
 
@@ -110,9 +162,8 @@ class Saksham:
 
 </div>
 
----
 
-## 🏆 TROPHIES
+## ðŸ† TROPHIES
 
 <div align="center">
 
@@ -122,9 +173,8 @@ class Saksham:
 
 <img src=".github/assets/animated-divider.svg" width="100%">
 
----
 
-## 📈 ACTIVITY
+## ðŸ“ˆ ACTIVITY
 
 <div align="center">
 
@@ -132,9 +182,8 @@ class Saksham:
 
 </div>
 
----
 
-## ⏱️ WEEKLY DEVELOPMENT STATS
+## â±ï¸ WEEKLY DEVELOPMENT STATS
 
 <div align="center">
 
@@ -146,7 +195,7 @@ class Saksham:
 
 <img src=".github/assets/animated-divider.svg" width="100%">
 
-## ⚡ LATEST ACTIVITY
+## âš¡ LATEST ACTIVITY
 
 <!--START_SECTION:activity-->
 *(GitHub recent activity feed will update here automatically)*
@@ -154,7 +203,7 @@ class Saksham:
 
 <img src=".github/assets/animated-divider.svg" width="100%">
 
-## ✍️ LATEST ARTICLES
+## âœï¸ LATEST ARTICLES
 
 <div align="center">
 
@@ -166,7 +215,7 @@ class Saksham:
 
 <img src=".github/assets/animated-divider.svg" width="100%">
 
-## 🐍 CONTRIBUTION SNAKE
+## ðŸ CONTRIBUTION SNAKE
 
 <div align="center">
 
@@ -178,7 +227,7 @@ class Saksham:
 
 <img src=".github/assets/animated-divider.svg" width="100%">
 
-## 🎧 NOW PLAYING (SPOTIFY)
+## ðŸŽ§ NOW PLAYING (SPOTIFY)
 
 <div align="center">
 
@@ -194,7 +243,7 @@ To enable your live Spotify status, replace "YOUR_UID_HERE" in the URLs below wi
 
 <img src=".github/assets/animated-divider.svg" width="100%">
 
-## 🔗 CONNECT
+## ðŸ”— CONNECT
 
 <div align="center">
 
@@ -215,14 +264,15 @@ To enable your live Spotify status, replace "YOUR_UID_HERE" in the URLs below wi
 <div align="center">
 
 ```
-◈━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━◈
-        do the work  ·  trust the process  ·  ship
-◈━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━◈
+â—ˆâ”â”â”â”â”â”â”â”â”â”â”â”â”â”â”â”â”â”â”â”â”â”â”â”â”â”â”â”â”â”â”â”â”â”â”â”â”â”â”â”â”â”â”â”â”â”â”â”â”â”â”â”â”â”â”â”â”â”â”â”â”â”â”â”â—ˆ
+        do the work  Â·  trust the process  Â·  ship
+â—ˆâ”â”â”â”â”â”â”â”â”â”â”â”â”â”â”â”â”â”â”â”â”â”â”â”â”â”â”â”â”â”â”â”â”â”â”â”â”â”â”â”â”â”â”â”â”â”â”â”â”â”â”â”â”â”â”â”â”â”â”â”â”â”â”â”â—ˆ
 ```
 
 </div>
 
 ![footer](https://capsule-render.vercel.app/api?type=venom&color=0:0a0a0f,40:2e1065,70:061428,100:0a0a0f&height=120&section=footer&stroke=a855f7&strokeWidth=1)
+
 
 
 
