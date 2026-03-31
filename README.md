@@ -179,14 +179,9 @@ Something bigger is being built. Follow along to see what ships next.
 
 ![Snake animation](https://raw.githubusercontent.com/AnshXGrind/AnshXGrind/output/github-contribution-grid-snake-dark.svg)
 
+*(Note: The snake animation will appear here after the GitHub Action runs for the first time)*
+
 </div>
-
-<details>
-<summary>⚙️ Setup the snake animation (click to expand)</summary>
-
-I've already created the `.github/workflows/snake.yml` file for you! Make sure to enable Actions in your repo settings. Once it runs, it will push the snake to the `output` branch.
-
-</details>
 
 <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
 
