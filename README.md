@@ -56,12 +56,12 @@ class Saksham:
 <div align="center">
 
 ### Core Languages
-<img src="https://skillicons.dev/icons?i=cpp,python,ts&theme=dark&perline=3" height="60"/>
+<img src="https://skillicons.dev/icons?i=cpp,python,ts,bash,c&theme=dark&perline=5" height="60"/>
 
 <br>
 
 ### AI · ML · Agents
-<img src="https://skillicons.dev/icons?i=pytorch,tensorflow,sklearn&theme=dark&perline=3" height="60"/>
+<img src="https://skillicons.dev/icons?i=pytorch,tensorflow,sklearn,py&theme=dark&perline=4" height="60"/>
 
 <br>
 
@@ -74,7 +74,7 @@ class Saksham:
 <br>
 
 ### Tools & Infra
-<img src="https://skillicons.dev/icons?i=git,linux,vscode,vercel,github,docker&theme=dark&perline=6" height="60"/>
+<img src="https://skillicons.dev/icons?i=git,linux,docker,vscode,vercel,github,aws,gcp&theme=dark&perline=8" height="60"/>
 
 </div>
 
@@ -184,29 +184,7 @@ Something bigger is being built. Follow along to see what ships next.
 <details>
 <summary>⚙️ Setup the snake animation (click to expand)</summary>
 
-Create `.github/workflows/snake.yml` in your profile repo:
-
-```yaml
-name: Generate Snake
-on:
-  schedule: [{ cron: "0 0 * * *" }]
-  workflow_dispatch:
-jobs:
-  generate:
-    runs-on: ubuntu-latest
-    steps:
-      - uses: Platane/snk/svg-only@v3
-        with:
-          github_user_name: AnshXGrind
-          outputs: |
-            dist/github-contribution-grid-snake-dark.svg?palette=github-dark
-      - uses: crazy-max/ghaction-github-pages@v3.1.0
-        with:
-          target_branch: output
-          build_dir: dist
-        env:
-          GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
-```
+I've already created the `.github/workflows/snake.yml` file for you! Make sure to enable Actions in your repo settings. Once it runs, it will push the snake to the `output` branch.
 
 </details>
 
@@ -221,6 +199,8 @@ jobs:
 [![GitHub](https://img.shields.io/badge/GitHub-AnshXGrind-0d1117?style=for-the-badge&logo=github&logoColor=00d4ff)](https://github.com/AnshXGrind)
 [![Codeforces](https://img.shields.io/badge/Codeforces-AnshXGrind-0d1117?style=for-the-badge&logo=codeforces&logoColor=00d4ff)](https://codeforces.com/profile/AnshXGrind)
 [![LeetCode](https://img.shields.io/badge/LeetCode-AnshXGrind-0d1117?style=for-the-badge&logo=leetcode&logoColor=FFA116)](https://leetcode.com/AnshXGrind)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-0d1117?style=for-the-badge&logo=linkedin&logoColor=0088cc)](https://linkedin.com/in/AnshXGrind)
+[![X](https://img.shields.io/badge/X-Follow_Me-0d1117?style=for-the-badge&logo=x&logoColor=ffffff)](https://x.com/AnshXGrind)
 
 <br>
 
