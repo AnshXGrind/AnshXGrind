@@ -27,7 +27,7 @@
 class Saksham:
     name       = "Saksham"
     alias      = "AnshXGrind"
-    base       = "Delhi, India  ·  from Kurukshetra"
+    base       = "Kurukshetra India"
 
     focus      = [
         "Autonomous AI Agents",
@@ -93,7 +93,7 @@ AI-powered medical intelligence — applying LLMs to healthcare diagnostics.
 <td width="33%" align="center">
 
 ### ⚡ lexiscan
-Lexical analysis scanner engine built at the compiler level.
+Dyslexia analysis scanner engine built at the compiler level.
 
 [![Repo](https://img.shields.io/badge/View_Repo-2e1065?style=for-the-badge&logo=github&logoColor=a855f7)](https://github.com/AnshXGrind/lexiscan)
 ![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=flat-square&logo=typescript&logoColor=white)
@@ -122,7 +122,7 @@ End-to-end preprocessing pipeline producing ML-ready datasets.
 <td width="33%" align="center">
 
 ### 🚀 Launcify
-An advanced deployment dashboard and orchestration web application.
+Agency Website 
 
 [![Repo](https://img.shields.io/badge/View_Repo-2e1065?style=for-the-badge&logo=github&logoColor=a855f7)](https://github.com/AnshXGrind/Launcify_new)
 ![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=flat-square&logo=typescript&logoColor=white)
@@ -131,7 +131,7 @@ An advanced deployment dashboard and orchestration web application.
 <td width="33%" align="center">
 
 ### 💧 Jaljeevan
-Systems focused on water resource orchestration and monitoring.
+ML Project helps in finding river problems using dolphins as sensors
 
 [![Repo](https://img.shields.io/badge/View_Repo-2e1065?style=for-the-badge&logo=github&logoColor=a855f7)](https://github.com/AnshXGrind/Jaljeevan)
 ![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white)
@@ -159,15 +159,6 @@ Systems focused on water resource orchestration and monitoring.
 </div>
 
 
-## 🏆 TROPHIES
-
-<div align="center">
-
-![Trophies](.github/assets/trophies.svg)
-
-</div>
-
-<img src=".github/assets/animated-divider.svg" width="100%">
 
 
 ## 📈 ACTIVITY
@@ -186,16 +177,7 @@ Systems focused on water resource orchestration and monitoring.
 
 <img src=".github/assets/animated-divider.svg" width="100%">
 
-## ✍️ LATEST ARTICLES
 
-<div align="center">
-
-<!-- BLOG-POST-LIST:START -->
-<!-- BLOG-POST-LIST:END -->
-
-</div>
-
-<img src=".github/assets/animated-divider.svg" width="100%">
 
 ## 🐍 CONTRIBUTION SNAKE
 
