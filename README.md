@@ -28,13 +28,7 @@
 <br />
 <br />
 
-<pre>
-       /\
-      /  \        code with patience
-     / /\ \       build with precision
-    / ____ \      ship with discipline
-   /_/    \_\
-</pre>
+
 
 </div>
 
@@ -103,26 +97,7 @@ Training in public through contributions, projects, and steady iteration.
 
 </div>
 
-## Battle-Tested Projects
 
-<div align="center">
-
-<table>
-<tr>
-<td width="50%">
-<a href="https://github.com/AnshXGrind/lexiscan">
-  <img width="100%" src="https://github-readme-stats.vercel.app/api/pin/?username=AnshXGrind&amp;repo=lexiscan&amp;theme=github_dark&amp;hide_border=true&amp;title_color=e7e5e4&amp;icon_color=a8a29e&amp;text_color=d6d3d1&amp;bg_color=0f1115" alt="Lexiscan Project" />
-</a>
-</td>
-<td width="50%">
-<a href="https://github.com/AnshXGrind/medaiii">
-  <img width="100%" src="https://github-readme-stats.vercel.app/api/pin/?username=AnshXGrind&amp;repo=medaiii&amp;theme=github_dark&amp;hide_border=true&amp;title_color=e7e5e4&amp;icon_color=a8a29e&amp;text_color=d6d3d1&amp;bg_color=0f1115" alt="Medaiii Project" />
-</a>
-</td>
-</tr>
-</table>
-
-</div>
 
 ## Scrolls Of Progress
 
@@ -143,16 +118,7 @@ Training in public through contributions, projects, and steady iteration.
 
 </div>
 
-## Samurai Loop
 
-```text
-while true:
-    study(the_fundamentals)
-    sharpen(the_stack)
-    build(real_projects)
-    review(the_lessons)
-    ship(the_next_version)
-```
 
 ## Developer Badges
 
@@ -227,17 +193,8 @@ while true:
 <br />
 <sub>Innovators Member - Earned Dec 15, 2025</sub>
 </td>
-<td align="center" width="33%">
-<img width="120" src="https://img.shields.io/badge/7-Badges-27272a?style=for-the-badge&amp;logo=google&amp;logoColor=e7e5e4&amp;labelColor=0f1115" alt="Seven Google developer badges" />
-<br />
-<strong>Developer Milestones</strong>
-<br />
-<sub>Google communities, Android, Firebase, ML, and Maps</sub>
-</td>
-<td align="center" width="33%">
-<img width="120" src="https://img.shields.io/badge/2025--2026-Learning%20Arc-44403c?style=for-the-badge&amp;logo=googlegemini&amp;logoColor=f5f5f4&amp;labelColor=0f1115" alt="2025 to 2026 learning arc" />
-<br />
-<strong>Learning Arc</strong>
+
+
 <br />
 <sub>Community participation + hands-on modules</sub>
 </td>
