@@ -51,12 +51,14 @@
 
 <br>
 
-### Featured Projects
-- **[medaiii](https://github.com/AnshXGrind/medaiii)** — Medical AI application  
-- **[python-data-cleaning-project](https://github.com/AnshXGrind/python-data-cleaning-project)** — Data preprocessing pipeline using Python ML stack  
-- **[Lawmind-main](https://github.com/AnshXGrind/Lawmind-main)** — Legal assistance platform with React frontend
+## 🚀 Featured Projects
 
-
+| Project | Description | Stack |
+|---|---|---|
+| [**lexiscan**](https://github.com/AnshXGrind/lexiscan) | AI-powered legal document scanner — upload contracts or case files for instant clause extraction, risk flagging, and plain-English summaries. | `TypeScript` `React` `Tailwind` `Vite` |
+| [**medaiii**](https://github.com/AnshXGrind/medaiii) | AI-assisted medical app — helps users understand symptoms and navigate health queries through a conversational interface. · [Live ↗](https://medaiii.vercel.app) | `AI/ML` `Vercel` |
+| [**Lawmind**](https://github.com/AnshXGrind/Lawmind-main) | Legal assistance platform that makes legal knowledge accessible — answers common questions and guides users through legal concepts via a React frontend. | `React` `JavaScript` |
+| [**python-data-cleaning**](https://github.com/AnshXGrind/python-data-cleaning-project) | End-to-end data preprocessing pipeline — handles missing values, column normalization, and statistical summaries on raw CSV datasets. | `Python` `Pandas` `NumPy` `Jupyter` |
 
 
 
@@ -69,18 +71,28 @@
 
 <div align="center">
 
-<img width="49%" src="https://github-readme-stats.vercel.app/api?username=AnshXGrind&amp;show_icons=true&amp;theme=github_dark&amp;hide_border=true&amp;title_color=e7e5e4&amp;icon_color=a8a29e&amp;text_color=d6d3d1&amp;bg_color=0f1115" alt="GitHub Stats" />
-<img width="49%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=AnshXGrind&amp;layout=compact&amp;theme=github_dark&amp;hide_border=true&amp;title_color=e7e5e4&amp;text_color=d6d3d1&amp;bg_color=0f1115" alt="Top Languages" />
+<img width="100%" src="https://github-profile-trophy.vercel.app/?username=AnshXGrind&theme=darkhub&no-frame=true&no-bg=true&margin-w=6&margin-h=6&column=6" alt="Trophies" />
 
 <br />
+
+<img width="49%" src="https://github-readme-stats.vercel.app/api?username=AnshXGrind&show_icons=true&theme=github_dark&hide_border=true&title_color=e7e5e4&icon_color=a8a29e&text_color=d6d3d1&bg_color=0f1115&rank_icon=github&include_all_commits=true" alt="GitHub Stats" />
+<img width="49%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=AnshXGrind&layout=compact&theme=github_dark&hide_border=true&title_color=e7e5e4&text_color=d6d3d1&bg_color=0f1115&langs_count=6" alt="Top Languages" />
+
 <br />
 
-<img width="72%" src="https://streak-stats.demolab.com?user=AnshXGrind&amp;theme=dark&amp;hide_border=true&amp;background=0F1115&amp;ring=A8A29E&amp;fire=78716C&amp;currStreakLabel=E7E5E4&amp;sideLabels=D6D3D1&amp;dates=A8A29E" alt="GitHub Streak" />
+<img width="70%" src="https://streak-stats.demolab.com?user=AnshXGrind&theme=dark&hide_border=true&background=0F1115&ring=A8A29E&fire=78716C&currStreakLabel=E7E5E4&sideLabels=D6D3D1&dates=A8A29E&mode=weekly" alt="GitHub Streak" />
 
 <br />
+
+<img width="95%" src="https://github-readme-activity-graph.vercel.app/graph?username=AnshXGrind&bg_color=0f1115&color=e7e5e4&line=78716c&point=a8a29e&area_color=a8a29e&area=true&hide_border=true&custom_title=Saksham's%20Contribution%20Graph&radius=6" alt="GitHub Activity Graph" />
+
 <br />
 
-<img width="92%" src="https://github-readme-activity-graph.vercel.app/graph?username=AnshXGrind&amp;bg_color=0f1115&amp;color=d6d3d1&amp;line=a8a29e&amp;point=e7e5e4&amp;area=true&amp;hide_border=true" alt="GitHub Activity Graph" />
+<img width="95%" src="https://ssr-contributions-svg.vercel.app/_/AnshXGrind?chart=calendar&gap=2&weeks=40&theme=dark&bg=0f1115&c4=e7e5e4&c3=a8a29e&c2=57534e&c1=292524&tc=d6d3d1&bc=0f1115" alt="Contribution Calendar" />
+
+<br />
+
+<img width="70%" src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=dark" alt="Dev Quote" />
 
 </div>
 
@@ -183,6 +195,5 @@
   </a>
 </p>
 
----
 
-*Discipline in learning. Clarity in code. Steady progress every day.*
+<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=FF7722&height=60&section=footer&text=Discipline+in+learning.+Clarity+in+code.+Steady+progress+every+day.&fontSize=14&fontColor=FFFFFF&font=Orbitron" />
