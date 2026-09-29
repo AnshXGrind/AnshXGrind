@@ -13,42 +13,45 @@
 <br>
 
 
-
-
 <br>
 
 <div align="center">
 
-  > Versatile developer passionate about **Artificial Intelligence**, **Machine Learning**, and **Blockchain**.  
-  Currently working hard on strengthening foundations across languages and modern technologies while building practical, reliable systems.
+  > Versatile developer focused on **Artificial Intelligence**, **Backend Engineering**, **System Design**, and **AI Infrastructure**.  
+  Currently strengthening foundations across software engineering and distributed systems while building practical, reliable, end-to-end systems.
 
 </div>
+
 <br>
 
 ## Arsenal
 
 <div align="center">
 
-<img src="https://skillicons.dev/icons?i=python,cpp,ts,js,react,nodejs,docker,aws,git,tensorflow,pytorch,sklearn&amp;perline=6" alt="Skill icons" />
+<img src="https://skillicons.dev/icons?i=python,cpp,ts,js,react,nodejs,fastapi,docker,aws,git,tensorflow,pytorch,sklearn&perline=6" alt="Skill icons" />
 
 <br />
 <br />
 
-<img src="https://img.shields.io/badge/Pandas-27272a?style=for-the-badge&amp;logo=pandas&amp;logoColor=e7e5e4" alt="Pandas" />
-<img src="https://img.shields.io/badge/NumPy-44403c?style=for-the-badge&amp;logo=numpy&amp;logoColor=f5f5f4" alt="NumPy" />
-<img src="https://img.shields.io/badge/ML%20Pipelines-57534e?style=for-the-badge&amp;logo=weightsandbiases&amp;logoColor=f5f5f4" alt="ML Pipelines" />
-<img src="https://img.shields.io/badge/Full%20Stack-27272a?style=for-the-badge&amp;logo=stackblitz&amp;logoColor=e7e5e4" alt="Full Stack" />
+<img src="https://img.shields.io/badge/Artificial%20Intelligence-27272a?style=for-the-badge&logo=openai&logoColor=e7e5e4" alt="Artificial Intelligence" />
+<img src="https://img.shields.io/badge/Backend%20Engineering-44403c?style=for-the-badge&logo=fastapi&logoColor=f5f5f4" alt="Backend Engineering" />
+<img src="https://img.shields.io/badge/System%20Design-57534e?style=for-the-badge&logo=diagramsdotnet&logoColor=f5f5f4" alt="System Design" />
+<img src="https://img.shields.io/badge/AI%20Infrastructure-27272a?style=for-the-badge&logo=docker&logoColor=e7e5e4" alt="AI Infrastructure" />
 
 </div>
+
 <br>
+
 <div align="center">
 
 ### Currently Exploring
- **Artificial Intelligence & Machine Learning** — Building stronger intuition and production-ready systems  
- **Blockchain** — Understanding decentralized systems and smart contracts  
- Mastering new programming languages with consistent daily practice
- </div>
 
+**Artificial Intelligence** — Building stronger foundations in modern AI systems and practical applications  
+**Backend Engineering** — Designing APIs, services, data flows, and reliable application backends  
+**System Design** — Learning scalable architectures, distributed systems, caching, databases, and service boundaries  
+**AI Infrastructure** — Exploring model serving, inference pipelines, orchestration, and production ML infrastructure  
+
+</div>
 <br>
 
 ## 🚀 Featured Projects
