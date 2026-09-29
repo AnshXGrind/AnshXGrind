@@ -55,13 +55,11 @@
 
 | Project | Description | Stack |
 |---|---|---|
+| [**Rail-Yojna**](https://github.com/AnshXGrind/Rail-Yojna) | End-to-end railway maintenance planning system — combines ML-based risk prediction, maintenance planning, operational constraints, optimization, safety evaluation, and human review through a FastAPI backend and React interface. | `Python` `FastAPI` `React` `scikit-learn` `OR-Tools` |
 | [**lexiscan**](https://github.com/AnshXGrind/lexiscan) | AI-powered legal document scanner — upload contracts or case files for instant clause extraction, risk flagging, and plain-English summaries. | `TypeScript` `React` `Tailwind` `Vite` |
-| [**medaiii**](https://github.com/AnshXGrind/medaiii) | AI-assisted medical app — helps users understand symptoms and navigate health queries through a conversational interface. · [Live ↗](https://medaiii.vercel.app) | `blockchain` `typescript` `react` `Vercel` |
-| [**Lawmind**](https://github.com/AnshXGrind/Lawmind-main) | Legal assistance platform that makes legal knowledge accessible — answers common questions and guides users through legal concepts via a React frontend. | `React` `JavaScript`  |
-| [**python-data-cleaning**](https://github.com/AnshXGrind/python-data-cleaning-project) | End-to-end data preprocessing pipeline — handles missing values, column normalization, and statistical summaries on raw CSV datasets. | `Python` `Pandas` `NumPy` `Jupyter` |
-| [**RAG01**](https://github.com/AnshXGrind/Rag01) | Building a local Retrieval-Augmented Generation (RAG) system from scratch — supports PDF/TXT ingestion, semantic search, conversational memory, ChromaDB vector storage, Ollama local LLMs, and a Streamlit research assistant UI. | `Python` `Streamlit` `Ollama` `ChromaDB` `RAG` |
-| [**BSSoC Website**](https://github.com/AnshXGrind/bssoc_website) |COOKING | `Open Source`  |
-
+| [**medaiii**](https://github.com/AnshXGrind/medaiii) | AI-assisted medical app — helps users understand symptoms and navigate health queries through a conversational interface. · [Live ↗](https://medaiii.vercel.app) | `blockchain` `TypeScript` `React` `Vercel` |
+| [**Lawmind**](https://github.com/AnshXGrind/Lawmind-main) | Legal assistance platform that makes legal knowledge accessible — answers common questions and guides users through legal concepts via a React frontend. | `React` `JavaScript` |
+| [**BSSoC Website**](https://github.com/AnshXGrind/bssoc_website) | COOKING | `Open Source` |
 
 <div align="center">
 
